@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "title": "Gum arabic, Himedia, Cas 9000-01-5",
+    "name": "Gum acacia powder",
+    "price": "450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Shigella-Broth-Base-247x247.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Himedia",
+    "name": "Soya Peptone ",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/03/Soya-peptone-Himedia-510x510.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Himedia",
+    "name": "Glucose Agar ",
+    "price": "1.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Glucose-Agar-510x510.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Himedia",
+    "name": "Kligler Iron Agar ",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Kligler-Iron-Agar-510x510.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Himedia",
+    "name": "Nitrate Broth",
+    "price": "1.400.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Nitrate-Broth-510x510.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Himedia",
+    "name": "Shigella Broth Base",
+    "price": "1.300.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Shigella-Broth-Base-510x510.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Himedia",
+    "name": "EMB Agar",
+    "price": "1.060.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/EMB-Agar-510x510.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Himedia",
+    "name": "Lauryl Tryptose Broth",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Lauryl-Tryptose-Broth-Lauryl-Sulphate-Broth-510x510.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Himedia",
+    "name": "Lysine Decarboxylase Broth",
+    "price": "1.150.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Lysine-Decarboxylase-Broth-510x510.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Chai 500G, Himedia",
+    "name": "Mannitol Salt Broth/Agar",
+    "price": "1.350.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Mannitol-Salt-Broth-247x247.jpg"
+  },
+  {
+    "id": 11,
+    "title": "XLD Agar, Himedia",
+    "name": "Xylose Lysine Deoxycholate Agar",
+    "price": "1.150.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Xylose-Lysine-Deoxycholate-Agar-XLD-Agar-247x247.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Himedia",
+    "name": "Letheen Broth, Modified",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Letheen-Broth-Modified-247x247.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Himedia",
+    "name": "Simmons Citrate Agar ",
+    "price": "1.150.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Simmons-Citrate-Agar-247x247.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Christensen, Autoclavable, Himedia",
+    "name": "Urea Agar Base ",
+    "price": "1.120.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Urea-Agar-Base-Christensen-Autoclavable-247x247.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Himedia",
+    "name": "Triple Sugar Iron Agar",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Triple-Sugar-Iron-Agar-247x247.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Phenol Red Egg Yolk Polymyxin Agar Base, Himedia",
+    "name": "MYP Agar Base",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/MYP-Agar-Base-Phenol-Red-Egg-Yolk-Polymyxin-Agar-Base-247x247.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Himedia",
+    "name": "Lactose Sulphite Broth Base",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Lactose-Sulphite-Broth-Base-247x247.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Himedia",
+    "name": "Lactose Broth",
+    "price": "890.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Lactose-Broth-M1003-500G-247x247.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Himedia",
+    "name": "Dichloran Glycerol Medium Base",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Dichloran-Glycerol-Medium-Base-M1129-247x247.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Himedia",
+    "name": "Mueller Kauffman Tetrathionate Novobiocin Broth Base",
+    "price": "1.350.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Mueller-Kauffman-Tetrathionate-Novobiocin-Broth-Base-247x247.jpg"
+  },
+  {
+    "id": 21,
+    "title": "RVS Broth, Himedia",
+    "name": "Rappaport Vassiliadis Soya Broth",
+    "price": "1.300.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Rappaport-Vassiliadis-Soya-Broth-247x247.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Himedia",
+    "name": "Sabouraud Dextrose Broth/Agar",
+    "price": "650.000₫ - 1.150.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sabouraud-Dextrose-Agar-247x247.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Himedia",
+    "name": "Peptone Water",
+    "price": "960.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Peptone-Water-247x247.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Chai 500G, Himedia",
+    "name": "Lactobacillus MRS Broth/Agar ",
+    "price": "1.550.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Lactobacillus-MRS-Agar-247x247.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Selective, Himedia",
+    "name": "TCBS Agar",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/TCBS-Agar-Slective-247x247.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Chai 500G, Himedia",
+    "name": "Fluid Thioglycollate medium",
+    "price": "590.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Thioglycollate-Medium-Fluid-247x247.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Chai 500G, Cas 67-48-1",
+    "name": "Choline Chloride >99%",
+    "price": "800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Choline-chloride-247x247.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Extra pure, cas 7790-58-1",
+    "name": "Potassium tellurite powder",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/07/Potassium-tellurite-powder-247x247.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Himedia",
+    "name": "Bacitracin, From Bacillus licheniformis",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/07/Bacitracin-From-Bacillus-licheniformis-247x247.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Chai 500G, Himedia",
+    "name": "Skim Milk Powder",
+    "price": "650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/Skim-milk-powder-247x247.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Himedia",
+    "name": "Proteinase K, From Pichia pastoris",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/Proteinase-K-tu-Pichia-pastoris-247x247.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Himedia",
+    "name": "5M Potassium acetate, pH 7.5-9.0 ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/5M-Potassium-acetate-pH-7.5-9.0-247x247.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Himedia",
+    "name": "0.5M EDTA, pH 8.0 ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/0.5M-EDTA-pH-8.0-247x247.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Himedia",
+    "name": "3M Solution Acetate pH 5.2-5.4 ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/3M-Solution-Acetate-pH-5.2-5.4-247x247.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Himedia",
+    "name": "Potassium Tellurite 3.5%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/02/Potassium-Tellurite-3.5-247x247.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Himedia",
+    "name": "Bile Salts ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/06/Bile-Salts-247x247.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Himedia",
+    "name": "Potato Dextrose Broth",
+    "price": "1.350.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/Potato-Dextrose-Broth-PDB-247x247.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Sinh Học Phân Tử, Himedia",
+    "name": "Đệm TAE 50X",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/TAE-50x-247x247.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Sinh Học Phân Tử, Himedia",
+    "name": "Đệm TBE 50X",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/TBE-50X-247x247.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Casitose, Certified CR014 , Himedia",
+    "name": "Tryptone, Certified",
+    "price": "1.600.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Tryptone-Certified-Casitose-Certified-247x247.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Himedia",
+    "name": "Môi trường LB Agar – Luria Bertani Agar, Miller ",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Luria-Bertani-Agar-LB-Agar-scaled-247x247.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Extra pure, cas 7778-80-5, Himedia",
+    "name": "Potassium Sulfate",
+    "price": "Duksan : 450.000đ\nHimedia: 350.000đ",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/10/Potassium-Sulphate-DUKSAN-247x247.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Himedia",
+    "name": "Tween 80",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Tween-80-247x247.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Himedia",
+    "name": "Tween-20® Cell Culture Tested ",
+    "price": "550.000đ\nSale 36% \n350.000đ",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Tween-20-100ml-Himedia-247x247.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Cas 1398-61-4, Himedia",
+    "name": "Chitin, Flakes, From Shrimp shells ",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Chitin-Flakes-From-Shrimp-shells-247x247.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Himedia",
+    "name": "Folin & ciocalteu’s phenol reagent",
+    "price": "100ml: 750.000đ\n500ml: 2.450.000đ",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Folin-ciocalteus-phenol-reagent-himedia-247x247.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Himedia",
+    "name": "Tris base, Cell culture tested ",
+    "price": "700.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/02/Tris-base-himedia-247x247.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Himedia",
+    "name": "Tris hydrochloride, Cell culture tested",
+    "price": "850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/02/Tris-HCL-himedia-247x247.jpg"
+  },
+  {
+    "id": 49,
+    "title": "VRBA, Chai 500G, Himedia",
+    "name": "Violet Red Bile Agar ",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Violet-Red-Bile-Agar-247x247.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Chai 500G, Himedia",
+    "name": "Baird Parker Agar Base ",
+    "price": "1.600.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Baird-Parker-Agar-Base-M043-247x247.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Infusion Agar, Thạch máu, Himedia",
+    "name": "Blood agar base ",
+    "price": "1.350.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Blood-Aga-Base-Himedia-247x247.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Merck Đức",
+    "name": "di-Potassium Hydrogen Phosphate",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+  },
+  {
+    "id": 53,
+    "title": "Merck Đức",
+    "name": "Dung dịch hiệu chuẩn pH 4",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/04/Buffer-solution-pH-4.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Merck Đức",
+    "name": "Dung dịch hiệu chuẩn pH 7",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/04/buffer-solution-ph-7.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Merck Đức",
+    "name": "Magnesium Sulphate Heptahydrate for analysis",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+  },
+  {
+    "id": 56,
+    "title": "Merck Đức",
+    "name": "Potassium Dihydrogen Phosphate for Analysis",
+    "price": "1.050.000₫\nSale 29%\nCòn 750.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+  },
+  {
+    "id": 57,
+    "title": "WAKO",
+    "name": "Chlorosulfonic acid 99.9%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Chlorosulfonic-acid-97-510x510.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Wako Nhật",
+    "name": "Methanesulfonic Acid Solution 2mol/L",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Methanesulfonic-Acid-Solution-2molL-510x510.jpg"
+  },
+  {
+    "id": 59,
+    "title": "WAKO Nhật Bản",
+    "name": "Carboxymethyl Cellulose Sodium Salt",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/10/Carboxymethyl-Cellulose-Sodium-Salt-CMC-510x510.jpg"
+  },
+  {
+    "id": 60,
+    "title": "WAKO Nhật",
+    "name": "Sodium Alginate ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Sodium-Alginate-80-120-510x510.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Wako NHật Bản",
+    "name": "Wetting Tension Test Mixture No.37.0 ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Wetting-Tension-Test-Mixture-No.37.0-WAKO.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Wako Nhật Bản",
+    "name": "Sodium Hydroxide Solution 1mol/L ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Sodium-Hydroxide-Solution-1moll.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Wako Nhật Bản",
+    "name": "Sulfuric Acid (1+2) 47%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Sulfuric-Acid-12-47.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Wako Nhật Bản",
+    "name": "Acetyl Chloride 98%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Acetyl-Chloride-98-Wako.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Wako Nhật Bản",
+    "name": "Wetting Tension Test Mixture No.42.0",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Wetting-Tension-Test-Mixture-No.42.0-510x680.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Wako Nhật Bản",
+    "name": "Aerosol® OT 015-00975",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Aerosol%C2%AE-OT-015-00975-Wako.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Wako Nhật Bản",
+    "name": "2-Methoxyethanol 058-01106 Wako",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/2-Methoxyethanol-058-01106-Wako.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Wako Nhật Bản",
+    "name": "L(+)-Ascorbic Acid Sodium Salt",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/L-Ascorbic-Acid-Sodium-Salt.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Wako Nhật Bản",
+    "name": "Sodium Nitrite (NaNO2, Chai 25G, WAKO Fujifilm, Cas 7632-00-0)",
+    "price": "1.370.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Sodium-Nitrite-WAKO.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Wako Nhật Bản",
+    "name": "Caffeine, Anhydrous 98.5% (Wako Fujifilm, Chai 100G, Cas 58-08-2)",
+    "price": "2.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Hoa-chat-Caffeine-C8H10N4O2-WAKO-510x510.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Wako Nhật Bản",
+    "name": "Sodium Polyphosphate Wako(194-05935)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Sodium-polyphosphate-Wako.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Acros",
+    "name": "Toluidine Blue O (Pure, Chai 5G, Acros, Cas 92-31-9)",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/10/Toluidine-Blue-O-Pure-Acros-Cas-92-31-9-510x510.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Acros ",
+    "name": "Sodium Caseinate, Pract ≥92% (Acros, Cas 9005-46-3)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Sodium-Caseinate.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Acros ",
+    "name": "Coumarin ≥99% (Acros, Cas 91-64-5)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Coumarin-99-Acros-Organics-Cas-91-64-5-510x510.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Acros ",
+    "name": "Diphenylamine (ACS Reagent, Chai 5G, Acros, Cas 122-39-4)",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Diphenylamine-ACS-Reagent-Acros-Cas-122-39-4.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Acros ",
+    "name": "Mercury (II) iodide >99% (Chai 25G, ACS reagent, Red, Acros, Cas 7774-29-0)",
+    "price": "1.750.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/08/MercuryII-iodide-99-ACS-reagent-Red-Acros-Cas-7774-29-0-510x510.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Acros Organics",
+    "name": "Deoxycholic acid, sodium salt 99% (Acros, Cas 302-95-4)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/07/Deoxycholic-acid-sodium-salt-99-Acros-Cas-302-95-4-510x510.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Acros ",
+    "name": "5-Fluorouracil 99% (Acros, Cas 51-21-8)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/06/5-Fluorouracil-99-Acros-Cas-51-21-8.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Acros ",
+    "name": "Ethyl L(-)-lactate 97% (Acros, Cas 687-47-8)",
+    "price": "1.990.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/06/Ethyl-L-lactate-97-Acros-Cas-687-47-8-510x510.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Acros ",
+    "name": "Meropenem trihydrate (Acros, Cas 119478-56-7)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/Meropenem-trihydrate-Acros-Cas-119478-56-7.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Acros ",
+    "name": "Sulbactam (Acros, Cas 68373-14-8)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/Sulbactam-Acros-Cas-68373-14-8-510x510.jpg"
+  },
+  {
+    "id": 82,
+    "title": " Acros Organics ",
+    "name": "1-Dodecanethiol 98% (Acros, Cas 112-55-0)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/1-Dodecanethiol-98-Acros-Organics-Cas-112-55-0-scaled-510x510.jpg"
+  },
+  {
+    "id": 83,
+    "title": "Fisher Bioreagents",
+    "name": "Phosphate Buffered Saline 10X Solution (PBS, Fisher Bioreagents, Cas 7732-18-5)",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/Phosphate-Buffered-Saline-10X-Solution-PBS-Fisher-Bioreagents-Cas-7732-18-5-510x510.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Acros Organics ",
+    "name": "N,N-Dimethylformamide 99.5% (DMF, HPLC, Acros, Cas 68-12-2)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/N-N-Dimethylformamide-99-5-DMF-HPLC-Acros-Cas-68-12-2-510x510.jpg"
+  },
+  {
+    "id": 85,
+    "title": "Acros Organics ",
+    "name": "2,6-Dichloroindophenol Sodium Salt hydrate >98% (Acros, Cas 1266615-56-8)",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/2-6-Dichloroindophenol-Sodium-Salt-hydrate-98-Acros-Cas-1266615-56-8.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Acros Organics ",
+    "name": "Carbon Disulfide 99.9% (ACS Reagent, Acros, Cas 75-15-0)",
+    "price": "4.860.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/03/Carbon-Disulfide-99.9-ACS-Reagent-Acros-Cas-75-15-0-510x510.jpg"
+  },
+  {
+    "id": 87,
+    "title": "Acros – ThermoScientific",
+    "name": "Ciprofloxacin 98% (HPLC, Acros, Cas 85721-33-1)",
+    "price": "1.950.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/03/Ciprofloxacin-Acros.jpg"
+  },
+  {
+    "id": 88,
+    "title": "Acros Organics ",
+    "name": "Ethidium Bromide 95% (Cas 1239-45-8)",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/Ethidium-Bromide-95-Cas-1239-45-8.jpg"
+  },
+  {
+    "id": 89,
+    "title": "Acros Organics ",
+    "name": "EDTA 99% (Acros, Cas 60-00-4)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/EDTA-99-Acros-Cas-60-00-4-510x510.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Acros Organics ",
+    "name": "Resazurin, sodium salt (pure, certified, Cas 62758-13-8)",
+    "price": "1.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/Resazurin-sodium-salt.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Acros Organics",
+    "name": "Esculin Hydrate 97% (Cas 531-75-9)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/Esculin-hydrate-97-Cas-531-75-9.jpg"
+  },
+  {
+    "id": 92,
+    "title": "Acros Organics",
+    "name": "Xylene Cyanol FF, ~75% (Cas 2650-17-1)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/Xylene-cyanol-FF-_75-Cas-2650-17-1.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Acros Organics",
+    "name": "trans-β-Nitrostyrene >97% (Cas 5153-67-3) ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/trans-%CE%B2-Nitrostyrene-97.jpg"
+  },
+  {
+    "id": 94,
+    "title": "Acros Belgium",
+    "name": "3-(3,4-Dihydroxyphenyl)-L-alanine (L-DOPA, Acros, Cas 59-92-7)",
+    "price": "1.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/12/3-34-Dihydroxyphenyl-L-alanine-L-DOPA-Cas-59-92-7-510x510.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Acros Organics",
+    "name": "(+)-Catechin hydrate (Cas 225937-10-0)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/12/Catechin-hydrate-510x510.jpg"
+  },
+  {
+    "id": 96,
+    "title": "Acros Châu âu",
+    "name": "4-Nitrophenyl-alpha-D-glucopyranoside 99% (Acros, Cas 3767-28-0)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/4-Nitrophenyl-alpha-D-glucopyranoside.jpg"
+  },
+  {
+    "id": 97,
+    "title": "MayBridge- ThermoFisher Scientific",
+    "name": "Isopropyl 2-bromo-2-methylpropanoate",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/isopropyl-2-bromo-2-methylpropanoate.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Acros Châu âu",
+    "name": "2-Phenylphenol >99% (Cas 90-43-7)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/2-Phenylphenol-99.jpg"
+  },
+  {
+    "id": 99,
+    "title": "Acros Châu âu",
+    "name": "Tannic acid 95% (Acros, Cas 1401-55-4)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/12/Tannic-acid-510x510.jpg"
+  },
+  {
+    "id": 100,
+    "title": "Acros Châu âu",
+    "name": "Hydroquinone (Cas 123-31-9)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/10/Hydroquinone-Cas-123-31-9-scaled-510x510.jpg"
+  },
+  {
+    "id": 101,
+    "title": "Acros Châu âu",
+    "name": "Trichloroacetic acid (TCA, 99% Cas 76-03-9)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/10/Trichloroacetic-acid-TCA-99-Cas-76-03-9-Acros-Organics-scaled-510x510.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Acros Organics",
+    "name": "N-Lauroylsarcosine sodium salt 95% (Acros, Cas 137-16-6)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/08/N-Lauroylsarcosine-sodium-salt.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Acros Organics",
+    "name": "beta-Estradiol 98% (Cas 50-28-2)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/08/beta-Estradiol-98-Cas-50-28-2-510x510.jpg"
+  },
+  {
+    "id": 104,
+    "title": "Acros Organics",
+    "name": "TPTZ 99%(Acros, Cas 3682-35-7) ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/07/TPTZ-Acros.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Acros Organics",
+    "name": "Trolox >97%(Acros, Cas 53188-07-1)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/07/Trolox-Cas-53188-07-1.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Acros Bỉ",
+    "name": "Caffeine 98.5% (USP/BP, Acros, Cas 58-08-2)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/07/Caffeine-98.5-Acros-510x510.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Acros Bỉ",
+    "name": "Dodecylbenzenesulfonic acid, sodium salt (Acros, Cas 25155-30-0)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Acros-organics-sbc.png"
+  },
+  {
+    "id": 108,
+    "title": "Acros Organics",
+    "name": "Indigo Carmine (Pure, certified, cas 860-22-0)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Acros-organics-sbc.png"
+  },
+  {
+    "id": 109,
+    "title": "Acros Organics",
+    "name": "Quercetin hydrate 95% (HPLC, Acros, Cas 849061-97-8)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Quercetin-hydrate-25G.jpg"
+  },
+  {
+    "id": 110,
+    "title": "Acros Organics",
+    "name": "Vanillin 99% Pure (AR, Acros, Cas 121-33-5)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/Vanillin-Acros-510x510.jpg"
+  },
+  {
+    "id": 111,
+    "title": "Acros Bỉ",
+    "name": "Hemin 98%, Porcine Acros Organics",
+    "price": "1.950.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/09/Hemin-Acros-510x510.jpg"
+  },
+  {
+    "id": 112,
+    "title": "Acros Bỉ",
+    "name": "Heparin sodium from porcine ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/06/Heparin-Acros.jpg"
+  },
+  {
+    "id": 113,
+    "title": "ACROS Organics ",
+    "name": "Mercury(II) chloride 99.5% (ACS, Chai 100G, Acros, Cas 7487-94-7)",
+    "price": "1.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Mercury-II-chloride-99-Cas-7487-94-7-510x510.jpg"
+  },
+  {
+    "id": 114,
+    "title": "Biobasic",
+    "name": "Indigo Carmine (Dye content 80%, Cas 860-22-0)",
+    "price": "1.490.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/3M-Solution-Acetate-pH-5.2-5.4-247x247.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Himedia",
+    "name": "Potassium Tellurite 3.5%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/02/Potassium-Tellurite-3.5-247x247.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Himedia",
+    "name": "Bile Salts ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/06/Bile-Salts-247x247.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Himedia",
+    "name": "Potato Dextrose Broth",
+    "price": "1.350.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/Potato-Dextrose-Broth-PDB-247x247.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Sinh Học Phân Tử, Himedia",
+    "name": "Đệm TAE 50X",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/TAE-50x-247x247.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Sinh Học Phân Tử, Himedia",
+    "name": "Đệm TBE 50X",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/TBE-50X-247x247.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Casitose, Certified CR014 , Himedia",
+    "name": "Tryptone, Certified",
+    "price": "1.600.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Tryptone-Certified-Casitose-Certified-247x247.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Himedia",
+    "name": "Môi trường LB Agar – Luria Bertani Agar, Miller ",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Luria-Bertani-Agar-LB-Agar-scaled-247x247.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Extra pure, cas 7778-80-5, Himedia",
+    "name": "Potassium Sulfate",
+    "price": "Duksan : 450.000đ\nHimedia: 350.000đ",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/10/Potassium-Sulphate-DUKSAN-247x247.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Himedia",
+    "name": "Tween 80",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Tween-80-247x247.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Himedia",
+    "name": "Tween-20® Cell Culture Tested ",
+    "price": "550.000đ\nSale 36% \n350.000đ",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Tween-20-100ml-Himedia-247x247.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Cas 1398-61-4, Himedia",
+    "name": "Chitin, Flakes, From Shrimp shells ",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Chitin-Flakes-From-Shrimp-shells-247x247.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Himedia",
+    "name": "Folin & ciocalteu’s phenol reagent",
+    "price": "100ml: 750.000đ\n500ml: 2.450.000đ",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Folin-ciocalteus-phenol-reagent-himedia-247x247.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Himedia",
+    "name": "Tris base, Cell culture tested ",
+    "price": "700.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/02/Tris-base-himedia-247x247.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Himedia",
+    "name": "Tris hydrochloride, Cell culture tested",
+    "price": "850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/02/Tris-HCL-himedia-247x247.jpg"
+  },
+  {
+    "id": 49,
+    "title": "VRBA, Chai 500G, Himedia",
+    "name": "Violet Red Bile Agar ",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Violet-Red-Bile-Agar-247x247.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Chai 500G, Himedia",
+    "name": "Baird Parker Agar Base ",
+    "price": "1.600.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Baird-Parker-Agar-Base-M043-247x247.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Infusion Agar, Thạch máu, Himedia",
+    "name": "Blood agar base ",
+    "price": "1.350.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Blood-Aga-Base-Himedia-247x247.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Merck Đức",
+    "name": "di-Potassium Hydrogen Phosphate",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+  },
+  {
+    "id": 53,
+    "title": "Merck Đức",
+    "name": "Dung dịch hiệu chuẩn pH 4",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/04/Buffer-solution-pH-4.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Merck Đức",
+    "name": "Dung dịch hiệu chuẩn pH 7",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/04/buffer-solution-ph-7.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Merck Đức",
+    "name": "Magnesium Sulphate Heptahydrate for analysis",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+  },
+  {
+    "id": 56,
+    "title": "Merck Đức",
+    "name": "Potassium Dihydrogen Phosphate for Analysis",
+    "price": "1.050.000₫\nSale 29%\nCòn 750.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+  },
+  {
+    "id": 57,
+    "title": "WAKO",
+    "name": "Chlorosulfonic acid 99.9%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Chlorosulfonic-acid-97-510x510.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Wako Nhật",
+    "name": "Methanesulfonic Acid Solution 2mol/L",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Methanesulfonic-Acid-Solution-2molL-510x510.jpg"
+  },
+  {
+    "id": 59,
+    "title": "WAKO Nhật Bản",
+    "name": "Carboxymethyl Cellulose Sodium Salt",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/10/Carboxymethyl-Cellulose-Sodium-Salt-CMC-510x510.jpg"
+  },
+  {
+    "id": 60,
+    "title": "WAKO Nhật",
+    "name": "Sodium Alginate ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Sodium-Alginate-80-120-510x510.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Wako NHật Bản",
+    "name": "Wetting Tension Test Mixture No.37.0 ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Wetting-Tension-Test-Mixture-No.37.0-WAKO.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Wako Nhật Bản",
+    "name": "Sodium Hydroxide Solution 1mol/L ",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Sodium-Hydroxide-Solution-1moll.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Wako Nhật Bản",
+    "name": "Sulfuric Acid (1+2) 47%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Sulfuric-Acid-12-47.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Wako Nhật Bản",
+    "name": "Acetyl Chloride 98%",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Acetyl-Chloride-98-Wako.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Wako Nhật Bản",
+    "name": "Wetting Tension Test Mixture No.42.0",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Wetting-Tension-Test-Mixture-No.42.0-510x680.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Wako Nhật Bản",
+    "name": "Aerosol® OT 015-00975",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Aerosol%C2%AE-OT-015-00975-Wako.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Wako Nhật Bản",
+    "name": "2-Methoxyethanol 058-01106 Wako",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/2-Methoxyethanol-058-01106-Wako.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Wako Nhật Bản",
+    "name": "L(+)-Ascorbic Acid Sodium Salt",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/L-Ascorbic-Acid-Sodium-Salt.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Wako Nhật Bản",
+    "name": "Sodium Nitrite (NaNO2, Chai 25G, WAKO Fujifilm, Cas 7632-00-0)",
+    "price": "1.370.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Sodium-Nitrite-WAKO.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Wako Nhật Bản",
+    "name": "Caffeine, Anhydrous 98.5% (Wako Fujifilm, Chai 100G, Cas 58-08-2)",
+    "price": "2.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Hoa-chat-Caffeine-C8H10N4O2-WAKO-510x510.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Wako Nhật Bản",
+    "name": "Sodium Polyphosphate Wako(194-05935)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Sodium-polyphosphate-Wako.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Acros",
+    "name": "Toluidine Blue O (Pure, Chai 5G, Acros, Cas 92-31-9)",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/10/Toluidine-Blue-O-Pure-Acros-Cas-92-31-9-510x510.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Acros ",
+    "name": "Sodium Caseinate, Pract ≥92% (Acros, Cas 9005-46-3)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Sodium-Caseinate.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Acros ",
+    "name": "Coumarin ≥99% (Acros, Cas 91-64-5)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Coumarin-99-Acros-Organics-Cas-91-64-5-510x510.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Acros ",
+    "name": "Diphenylamine (ACS Reagent, Chai 5G, Acros, Cas 122-39-4)",
+    "price": "1.050.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Diphenylamine-ACS-Reagent-Acros-Cas-122-39-4.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Acros ",
+    "name": "Mercury (II) iodide >99% (Chai 25G, ACS reagent, Red, Acros, Cas 7774-29-0)",
+    "price": "1.750.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/08/MercuryII-iodide-99-ACS-reagent-Red-Acros-Cas-7774-29-0-510x510.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Acros Organics",
+    "name": "Deoxycholic acid, sodium salt 99% (Acros, Cas 302-95-4)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/07/Deoxycholic-acid-sodium-salt-99-Acros-Cas-302-95-4-510x510.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Acros ",
+    "name": "5-Fluorouracil 99% (Acros, Cas 51-21-8)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/06/5-Fluorouracil-99-Acros-Cas-51-21-8.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Acros ",
+    "name": "Ethyl L(-)-lactate 97% (Acros, Cas 687-47-8)",
+    "price": "1.990.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/06/Ethyl-L-lactate-97-Acros-Cas-687-47-8-510x510.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Acros ",
+    "name": "Meropenem trihydrate (Acros, Cas 119478-56-7)",
+    "price": "Liên hệ để báo giá",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/Meropenem-trihydrate-Acros-Cas-119478-56-7.jpg"
+  }
+]
