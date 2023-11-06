@@ -1,3 +1,9 @@
+// Cuộn lên đầu trang trước khi tải lại
+window.addEventListener('beforeunload', function () {
+    window.scrollTo(0, 0);
+});
+
+
 // Get references to the menu elements
 const menuIcon = document.getElementById("menu_icon");
 const navList = document.querySelector(".nav_list");
@@ -13,7 +19,8 @@ menuIcon.addEventListener("click", (e) => {
 
 
 
-const productsPerPage = 24; // Số sản phẩm trên mỗi trang
+
+const productsPerPage = 36; // Số sản phẩm trên mỗi trang
 let currentPage = 1; // Trang hiện tại
 
 // Kiểm tra xem trang đã được tải lại hay chưa
@@ -23,9 +30,10 @@ if (!isReloaded) {
     currentPage = 1;
     localStorage.setItem('isReloaded', 'true');
 } else {
-    // Nếu trang đã được tải lại, xóa trạng thái trang hiện tại
+    // Nếu trang đã được tải lại, đặt trang hiện tại thành 1 và đánh dấu đã tải lại
     currentPage = 1;
     localStorage.removeItem('currentPage');
+    localStorage.setItem('isReloaded', 'true');
 }
 
 fetch('products.json')
@@ -57,6 +65,9 @@ fetch('products.json')
                 scrollToTop(); // Cuộn lên đầu trang sau khi chuyển trang
             }
         });
+
+        // Cuộn lên đầu trang sau khi tải lại
+        scrollToTop();
     })
     .catch(error => console.error('Error loading JSON: ', error));
 
@@ -82,23 +93,23 @@ function displayPage(paginatedData, page) {
         products.map((product) => {
             const { title, name, price, img } = product;
             data1 += `
-                    <div class="pro">
-                        <img src=${img} alt="img">
-                        <div class="des">
-                            <span>${title}</span>
-                            <h5>${name}</h5>
-                            <div class="star">
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class "fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                            </div>
-                            <h4>${price}</h4>
+                <div class="pro">
+                    <img src=${img} alt="img">
+                    <div class="des">
+                        <span>${title}</span>
+                        <h5>${name}</h5>
+                        <div class="star">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
                         </div>
-                        <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+                        <h4>${price}</h4>
                     </div>
-                `;
+                    <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+                </div>
+            `;
         });
     }
     document.querySelector("#product-container").innerHTML = data1;
@@ -115,9 +126,11 @@ function createPagination(paginatedData) {
 
     document.getElementById('pagination').innerHTML = paginationHTML;
 }
-window.addEventListener('beforeunload', function (e) {
+
+// Hàm cuộn lên đầu trang
+function scrollToTop() {
     window.scrollTo(0, 0);
-});
+}
 
 
 

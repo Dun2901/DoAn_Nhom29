@@ -909,374 +909,774 @@
     "name": "Indigo Carmine (Dye content 80%, Cas 860-22-0)",
     "price": "1.490.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/05/3M-Solution-Acetate-pH-5.2-5.4-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/Indigo-Carmine-510x510.jpg"
   },
   {
-    "id": 35,
-    "title": "Himedia",
-    "name": "Potassium Tellurite 3.5%",
-    "price": "Liên hệ để báo giá",
+    "id": 115,
+    "title": "Biobasic",
+    "name": "Acridine orange hemi (zinc chloride) salt (Indicator, Biobasic)",
+    "price": "680.000₫",
     "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/02/Potassium-Tellurite-3.5-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/01/Acridine-Orange-Hemi-Zinc-Chloride-Salt-280x280.jpg "
   },
   {
-    "id": 36,
-    "title": "Himedia",
-    "name": "Bile Salts ",
-    "price": "Liên hệ để báo giá",
+    "id": 116,
+    "title": "Biobasic Canada",
+    "name": "MES monohydrate (Cas 145224-94-8)",
+    "price": "750.000₫ – 5.400.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/06/Bile-Salts-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/10/MES-monohydrate-Free-acid-Cas-145224-94-8-280x280.jpg "
   },
   {
-    "id": 37,
-    "title": "Himedia",
-    "name": "Potato Dextrose Broth",
-    "price": "1.350.000₫",
+    "id": 117,
+    "title": "Biobasic Canada",
+    "name": "Maleic acid >99% (Toxilic acid, Chai 250G, Biobasic, Cas 110-16-7)",
+    "price": "750.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/Potato-Dextrose-Broth-PDB-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/07/DL-Maleic-acid-280x280.jpg"
   },
   {
-    "id": 38,
-    "title": "Sinh Học Phân Tử, Himedia",
-    "name": "Đệm TAE 50X",
-    "price": "1.000.000₫",
+    "id": 118,
+    "title": "Biobasic Canada",
+    "name": "Ammonium Citrate, tribasic (Biobasic, Cas 3458-72-8)",
+    "price": "500.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/TAE-50x-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Ammonium-Citrate-280x280.jpg "
   },
   {
-    "id": 39,
-    "title": "Sinh Học Phân Tử, Himedia",
-    "name": "Đệm TBE 50X",
-    "price": "1.000.000₫",
+    "id": 119,
+    "title": "Biobasic",
+    "name": "Polyvinylpyrrolidone 40 (PVP-40 , Biobasic, Cas 9003-39-8)",
+    "price": "950.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/09/TBE-50X-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/PVP-40-Biobasic-280x280.jpg "
   },
   {
-    "id": 40,
-    "title": "Casitose, Certified CR014 , Himedia",
-    "name": "Tryptone, Certified",
-    "price": "1.600.000₫",
+    "id": 120,
+    "title": "Biobasic Canada",
+    "name": "DL-Malic acid 99% (Biobasic, Cas 617-48-1)",
+    "price": "550.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Tryptone-Certified-Casitose-Certified-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/DL-Malic-acid-280x280.jpg "
   },
   {
-    "id": 41,
-    "title": "Himedia",
-    "name": "Môi trường LB Agar – Luria Bertani Agar, Miller ",
-    "price": "1.450.000₫",
+    "id": 121,
+    "title": "Biobasic",
+    "name": "HEPES, Sodium Salt >99% (Biobasic, Cas 75277-39-3)",
+    "price": "950.000₫",
     "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Luria-Bertani-Agar-LB-Agar-scaled-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/01/HEPES-Sodium-Salt-99-280x280.jpg "
   },
   {
-    "id": 42,
-    "title": "Extra pure, cas 7778-80-5, Himedia",
-    "name": "Potassium Sulfate",
-    "price": "Duksan : 450.000đ\nHimedia: 350.000đ",
+    "id": 122,
+    "title": "Biobasic Canada",
+    "name": "Agarose M (50G, electrophoresis, Biobasic, Cas 9012-36-6)",
+    "price": "1.150.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/10/Potassium-Sulphate-DUKSAN-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/05/agarose-M-50G-biobasic-280x280.jpg "
   },
   {
-    "id": 43,
-    "title": "Himedia",
-    "name": "Tween 80",
-    "price": "Liên hệ để báo giá",
+    "id": 123,
+    "title": "Biobasic Canada",
+    "name": "Lysozyme (Biotech Grade, Biobasic, Cas 12650-88-3)",
+    "price": "450.000₫ – 1.750.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Tween-80-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/05/Hoa-Chat-enzyme-Lysozyme-280x280.jpg "
   },
   {
-    "id": 44,
-    "title": "Himedia",
-    "name": "Tween-20® Cell Culture Tested ",
-    "price": "550.000đ\nSale 36% \n350.000đ",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Tween-20-100ml-Himedia-247x247.jpg"
-  },
-  {
-    "id": 45,
-    "title": "Cas 1398-61-4, Himedia",
-    "name": "Chitin, Flakes, From Shrimp shells ",
-    "price": "1.100.000₫",
-    "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Chitin-Flakes-From-Shrimp-shells-247x247.jpg"
-  },
-  {
-    "id": 46,
-    "title": "Himedia",
-    "name": "Folin & ciocalteu’s phenol reagent",
-    "price": "100ml: 750.000đ\n500ml: 2.450.000đ",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/05/Folin-ciocalteus-phenol-reagent-himedia-247x247.jpg"
-  },
-  {
-    "id": 47,
-    "title": "Himedia",
-    "name": "Tris base, Cell culture tested ",
-    "price": "700.000₫",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/02/Tris-base-himedia-247x247.jpg"
-  },
-  {
-    "id": 48,
-    "title": "Himedia",
-    "name": "Tris hydrochloride, Cell culture tested",
+    "id": 124,
+    "title": "Biobasic Canada",
+    "name": "Congo Red C32H22N6O6S2Na2",
     "price": "850.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/02/Tris-HCL-himedia-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/05/Hoa-Chat-enzyme-Lysozyme-280x280.jpg "
   },
   {
-    "id": 49,
-    "title": "VRBA, Chai 500G, Himedia",
-    "name": "Violet Red Bile Agar ",
-    "price": "1.100.000₫",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Violet-Red-Bile-Agar-247x247.jpg"
-  },
-  {
-    "id": 50,
-    "title": "Chai 500G, Himedia",
-    "name": "Baird Parker Agar Base ",
-    "price": "1.600.000₫",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Baird-Parker-Agar-Base-M043-247x247.jpg"
-  },
-  {
-    "id": 51,
-    "title": "Infusion Agar, Thạch máu, Himedia",
-    "name": "Blood agar base ",
-    "price": "1.350.000₫",
+    "id": 125,
+    "title": "Biobasic Canada",
+    "name": "Phenol Red, Sodium Salt (Indicator, Biobasic, Cas 34487-61-1)",
+    "price": "850.000₫",
     "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/Blood-Aga-Base-Himedia-247x247.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/05/Phenol-Red-Sodium-Salt-C19H13NaO5S-280x280.jpg "
   },
   {
-    "id": 52,
-    "title": "Merck Đức",
-    "name": "di-Potassium Hydrogen Phosphate",
-    "price": "Liên hệ để báo giá",
+    "id": 126,
+    "title": "Biobasic Canada",
+    "name": "Phenol Red C19H14O5S",
+    "price": "850.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/05/Phenol-Red-Biobasic-280x280.jpg "
   },
   {
-    "id": 53,
-    "title": "Merck Đức",
-    "name": "Dung dịch hiệu chuẩn pH 4",
-    "price": "Liên hệ để báo giá",
+    "id": 127,
+    "title": "Biobasic",
+    "name": "Tris Base (Biotech Grade, Chai 500G, Biobasic, Cas 77-86-1) ",
+    "price": "1.200.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/04/Buffer-solution-pH-4.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/02/Tris-Base-Biotech-Grade-280x280.jpg"
   },
   {
-    "id": 54,
-    "title": "Merck Đức",
-    "name": "Dung dịch hiệu chuẩn pH 7",
-    "price": "Liên hệ để báo giá",
+    "id": 128,
+    "title": "Biobasic",
+    "name": "Hóa Chất Thymolphthalein, Indicator",
+    "price": "1.650.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/04/buffer-solution-ph-7.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/12/Hoa-Chat-Thymolphthalein-Indicator-280x280.jpg "
   },
   {
-    "id": 55,
-    "title": "Merck Đức",
-    "name": "Magnesium Sulphate Heptahydrate for analysis",
-    "price": "1.100.000₫",
-    "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
-  },
-  {
-    "id": 56,
-    "title": "Merck Đức",
-    "name": "Potassium Dihydrogen Phosphate for Analysis",
-    "price": "1.050.000₫\nSale 29%\nCòn 750.000₫",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Sigma-aldrich-logo-500x500-1.png"
-  },
-  {
-    "id": 57,
-    "title": "WAKO",
-    "name": "Chlorosulfonic acid 99.9%",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Chlorosulfonic-acid-97-510x510.jpg"
-  },
-  {
-    "id": 58,
-    "title": "Wako Nhật",
-    "name": "Methanesulfonic Acid Solution 2mol/L",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Methanesulfonic-Acid-Solution-2molL-510x510.jpg"
-  },
-  {
-    "id": 59,
-    "title": "WAKO Nhật Bản",
-    "name": "Carboxymethyl Cellulose Sodium Salt",
-    "price": "1.450.000₫",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/10/Carboxymethyl-Cellulose-Sodium-Salt-CMC-510x510.jpg"
-  },
-  {
-    "id": 60,
-    "title": "WAKO Nhật",
-    "name": "Sodium Alginate ",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Sodium-Alginate-80-120-510x510.jpg"
-  },
-  {
-    "id": 61,
-    "title": "Wako NHật Bản",
-    "name": "Wetting Tension Test Mixture No.37.0 ",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Wetting-Tension-Test-Mixture-No.37.0-WAKO.jpg"
-  },
-  {
-    "id": 62,
-    "title": "Wako Nhật Bản",
-    "name": "Sodium Hydroxide Solution 1mol/L ",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Sodium-Hydroxide-Solution-1moll.jpg"
-  },
-  {
-    "id": 63,
-    "title": "Wako Nhật Bản",
-    "name": "Sulfuric Acid (1+2) 47%",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Sulfuric-Acid-12-47.jpg"
-  },
-  {
-    "id": 64,
-    "title": "Wako Nhật Bản",
-    "name": "Acetyl Chloride 98%",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Acetyl-Chloride-98-Wako.jpg"
-  },
-  {
-    "id": 65,
-    "title": "Wako Nhật Bản",
-    "name": "Wetting Tension Test Mixture No.42.0",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Wetting-Tension-Test-Mixture-No.42.0-510x680.jpg"
-  },
-  {
-    "id": 66,
-    "title": "Wako Nhật Bản",
-    "name": "Aerosol® OT 015-00975",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/Aerosol%C2%AE-OT-015-00975-Wako.jpg"
-  },
-  {
-    "id": 67,
-    "title": "Wako Nhật Bản",
-    "name": "2-Methoxyethanol 058-01106 Wako",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/08/2-Methoxyethanol-058-01106-Wako.jpg"
-  },
-  {
-    "id": 68,
-    "title": "Wako Nhật Bản",
-    "name": "L(+)-Ascorbic Acid Sodium Salt",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/L-Ascorbic-Acid-Sodium-Salt.jpg"
-  },
-  {
-    "id": 69,
-    "title": "Wako Nhật Bản",
-    "name": "Sodium Nitrite (NaNO2, Chai 25G, WAKO Fujifilm, Cas 7632-00-0)",
-    "price": "1.370.000₫",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Sodium-Nitrite-WAKO.jpg"
-  },
-  {
-    "id": 70,
-    "title": "Wako Nhật Bản",
-    "name": "Caffeine, Anhydrous 98.5% (Wako Fujifilm, Chai 100G, Cas 58-08-2)",
+    "id": 129,
+    "title": "Biobasic Canada",
+    "name": "Acrylamide (Ultra Pure, Biobasic, Cas 79-06-1)",
     "price": "2.000.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Hoa-chat-Caffeine-C8H10N4O2-WAKO-510x510.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/12/Acrylamide-Ultra-Pure-C3H5NO-280x280.jpg "
   },
   {
-    "id": 71,
-    "title": "Wako Nhật Bản",
-    "name": "Sodium Polyphosphate Wako(194-05935)",
-    "price": "Liên hệ để báo giá",
+    "id": 130,
+    "title": "Biobasic",
+    "name": "CTAB (C19H42NBr, Biobasic, Cas 57-09-0) ",
+    "price": "650.000₫ – 2.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/12/CTAB-biobasic-2023-280x280.jpg "
+  },
+  {
+    "id": 131,
+    "title": "Biobasic",
+    "name": "Hóa Chất Basic Fuchsin, certified ",
+    "price": "750.000₫",
     "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Sodium-polyphosphate-Wako.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/12/Hoa-Chat-Basic-Fuchsin-certified-280x280.jpg "
   },
   {
-    "id": 72,
-    "title": "Acros",
-    "name": "Toluidine Blue O (Pure, Chai 5G, Acros, Cas 92-31-9)",
+    "id": 132,
+    "title": "Biobasic",
+    "name": "Brilliant Green (Chai 25G, Biobasic, Cas 633-03-4)",
+    "price": "850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/12/Hoa-Chat-Basic-Fuchsin-certified-280x280.jpg "
+  },
+  {
+    "id": 133,
+    "title": "Biobasic",
+    "name": "D-biotin 98.5% (Biobasic, Cas 58-85-5)",
+    "price": "1.450.000₫–1.900.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/11/D-biotin-98.5-280x280.jpg "
+  },
+  {
+    "id": 134,
+    "title": "Biobasic",
+    "name": "Gallic Acid 99% (Biobasic, cas 149-91-7)",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/11/Gallic-acid-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 135,
+    "title": "Biobasic Canada",
+    "name": "Giemsa Stain (Biobasic, Cas 51811-82-6)",
+    "price": "950.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/11/Hoa-Chat-Giemsa-Stain-280x280.jpg "
+  },
+  {
+    "id": 136,
+    "title": "Biobasic",
+    "name": "Methyl Blue, Sodium Salt (Indicator, Biobasic, Cas 28983-56-4)",
+    "price": "650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Methyl-blue-sodium-salt-50g-280x280.jpg "
+  },
+  {
+    "id": 137,
+    "title": "Biobasic",
+    "name": "Bromophenol Blue indicator BB2230",
+    "price": "1.250.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/07/Bomophenol-Blue-BB2230-247x247.jpg "
+  },
+  {
+    "id": 138,
+    "title": "Biobasic Canada",
+    "name": "Albumin, PH 5.1±0.2",
+    "price": "4.500.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/06/Albumin-50G-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 139,
+    "title": "Biobasic Canada",
+    "name": "Coomassie Brilliant Blue R-250 (Biobasic, Cas 6104-59-2)",
+    "price": "1.100.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/05/Coomassie-Brilliant-Blue-R-250-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 140,
+    "title": "Biobasic Canada",
+    "name": "Methyl Red (Dyes and Stains)",
+    "price": "750.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2020/05/Coomassie-Brilliant-Blue-R-250-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 141,
+    "title": "Biobasic Canada",
+    "name": "Agarose M (250G, for Electrophoresis, Biobasic, Cas 9012-36-6 )",
+    "price": "4.500.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/06/agarose-M-250G-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 142,
+    "title": "Biobasic Canada",
+    "name": "D-Myo-Inositol (Biobasic, Cas 87-89-8)",
+    "price": "950.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/D-myo-Inositol-Biobasic-280x280.jpg"
+  },
+  {
+    "id": 143,
+    "title": "Biobasic Canada",
+    "name": "L-Tyrosine (USP, Biobasic, Cas 60-18-4)",
+    "price": "850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2019/01/L-Tyrosine-Biobasic-1-280x280.jpg "
+  },
+  {
+    "id": 144,
+    "title": "Biobasic Canada",
+    "name": "6-Benzylaminopurine (BA / 6-BAP; Chai 25G, Biobasic, Cas 1214-39-7)",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/6-BAP-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 145,
+    "title": "Biobasic",
+    "name": "Kinetin (Biobasic, chai 25G, Cas 525-79-1)",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/Kinetin-Biobasic-SBC-280x280.jpg "
+  },
+  {
+    "id": 146,
+    "title": "Biobasic",
+    "name": "(+) Abscisic acid (Dormin, ABA)",
+    "price": "2.100.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/Abscisic-acid-Dormin-ABA-Biobasic-280x280.jpg "
+  },
+  {
+    "id": 147,
+    "title": "Biobasic",
+    "name": "Indole-3 butyric acid (IBA, Chai 25G, Biobasic, Cas 133-32-4)",
+    "price": "900.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/IBA-biobasic-25G-280x280.jpg "
+  },
+  {
+    "id": 148,
+    "title": "Biobasic",
+    "name": "Tris hydrochloride (Chai 250G, Biobasic, Cas 1185-53-1)",
+    "price": "1.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/Tris-hydrochloride-280x280.jpg "
+  },
+  {
+    "id": 149,
+    "title": "Biobasic",
+    "name": "Chitosan >90% (Biobasic, cas 9012-76-4)",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/Chitosan-biobasic-1-510x510.jpg  "
+  },
+  {
+    "id": 150,
+    "title": "Biobasic Canada",
+    "name": "3-Indoleacetic acid (IAA, Chai 25G, Biobasic, Cas 87-51-4 )",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/IAA-biobasic-510x510.jpg "
+  },
+  {
+    "id": 151,
+    "title": "Biobasic Canada",
+    "name": "NAA (1-Naphthaleneacetic acid, Biobasic, Cas 86-87-3)",
+    "price": "1.450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/12/NAA-Biobasic-SBC.jpg "
+  },
+  {
+    "id": 152,
+    "title": "Biobasic Canada",
+    "name": "Triton X-100 (Biobasic, Chai 500ML, Cas 9002-93-1)",
+    "price": "650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2018/11/Triton-X-100-Biobasic.jpg "
+  },
+  {
+    "id": 153,
+    "title": "Biobasic ",
+    "name": "Glutaraldehyde 25% solution (Biobasic, Cas 111-30-8)",
+    "price": "2.100.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/02/Glutaraldehyde-25-biobasic-scaled-510x510.jpg"
+  },
+  {
+    "id": 154,
+    "title": "Biobasic",
+    "name": "Zeatin (ZB0747, Biobasic)",
+    "price": "5.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/01/Zeatin-ZB0747-510x510.jpg "
+  },
+  {
+    "id": 155,
+    "title": "BOSF TQ",
+    "name": "Saponin >90% (Cas 8047-15-2)",
+    "price": "500.000₫ – 1.600.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/11/Saponin-90-Cas-8047-15-2-1-510x510.jpg "
+  },
+  {
+    "id": 156,
+    "title": "BOSF TQ",
+    "name": "3,5-Dinitrosalicylic acid ≥98% (BOSF, Cas 609-99-4)",
+    "price": "500.000₫ – 1.450.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/3-5-Dinitrosalicylic-acid-BOSF-510x510.jpg "
+  },
+  {
+    "id": 157,
+    "title": "BOSF TQ",
+    "name": "Pectinase/Polygalacturonase,＞10KU/g solid (cas 9032-75-1)",
+    "price": "450.000₫ – 1.950.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Pectinase-Polygalacturonase-cas-9032-75-1.jpg "
+  },
+  {
+    "id": 158,
+    "title": "BOSF TQ",
+    "name": "Cellulase ≥99% (Cas 9012-54-8)",
+    "price": "450.000₫ – 1.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Cellulase-Cas-9012-54-8.jpg "
+  },
+  {
+    "id": 159,
+    "title": "BOSF TQ",
+    "name": "Thidiazuron >98% (TDZ, TQ, Cas 51707-55-2)",
+    "price": "550.000₫ – 2.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/TDZ-Thidiazuron-1G-BOSF.jpg "
+  },
+  {
+    "id": 160,
+    "title": "BOSF TQ",
+    "name": "Vitamin A ≥99% (Cas 68-26-8)",
+    "price": "950.000₫ – 3.600.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Vitamin-A-TQ.jpg "
+  },
+  {
+    "id": 161,
+    "title": "BOSF TQ",
+    "name": "DL-Malic acid (Cas 617-48-1)",
+    "price": "250.000₫ – 650.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Malic-acid-510x510.jpg "
+  },
+  {
+    "id": 162,
+    "title": "BOSF TQ",
+    "name": "Phytagel 100% (Gellan Gum, Cas 71010-52-1)",
+    "price": "450.000₫ – 2.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Phytagel.jpg"
+  },
+  {
+    "id": 163,
+    "title": "BOSF TQ",
+    "name": "2,6-Di-tert-butyl-4-methylphenol (Cas 128-37-0)",
+    "price": "250.000₫ – 1.050.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/26-Di-tert-butyl-4-methylphenol-510x510.jpg "
+  },
+  {
+    "id": 164,
+    "title": "BOSF TQ",
+    "name": "Heparin Sodium Salt ≥140U/mg (China)",
+    "price": "850.000₫ – 24.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/03/Heparin-BOSF.jpg "
+  },
+  {
+    "id": 165,
+    "title": "BOSF TQ",
+    "name": "L-Arginine Hydrochloride ≥99% TQ",
+    "price": "500.000₫ – 1.800.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/L-arginine-BOSF.jpg "
+  },
+  {
+    "id": 166,
+    "title": "BOSF TQ",
+    "name": "DL-Tryptophan 99% TQ",
+    "price": "250.000₫ – 1.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/DL-Tryptophan-BOSF-510x510.jpg "
+  },
+  {
+    "id": 167,
+    "title": "BOSF TQ",
+    "name": "Glycine ＞99% (TQ, Cas 56-40-6)",
+    "price": "250.000₫ - 1.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Glycine-100G-BOSF-510x510.jpg "
+  },
+  {
+    "id": 168,
+    "title": "BOSF TQ",
+    "name": "Vitamin B3 (Nicotinic acid, TQ)",
+    "price": "250.000₫ – 2.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Vitamin-B3-25G-510x510.jpg "
+  },
+  {
+    "id": 169,
+    "title": "BOSF TQ",
+    "name": "D-Pantothenic Acid Hemicalcium Salt (Vitamin B5, TQ)",
+    "price": "350.000₫ – 850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Vitamin-B5-25G-BOSF-510x510.jpg "
+  },
+  {
+    "id": 170,
+    "title": "BOSF TQ",
+    "name": "D-Biotin (B7, ≥99% TLC, TQ)",
+    "price": "300.000₫ – 1.900.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/D-biotin-1G-BOSF.jpg "
+  },
+  {
+    "id": 171,
+    "title": "BOSF TQ",
+    "name": "IAA (3-Indoleacetic acid, TQ, Cas 87-51-4)",
+    "price": "250.000₫ – 2.800.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/IAA-5G-BOSF.jpg "
+  },
+  {
+    "id": 172,
+    "title": "BOSF TQ",
+    "name": "Kinetin (6-furfurylaminopurine, TLC/HPLC TQ)",
+    "price": "300.000₫ – 4.500.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/Kinetin-1G-BOSF-510x510.jpg "
+  },
+  {
+    "id": 173,
+    "title": "BOSF TQ",
+    "name": "IBA (Indole-3 butyric acid, TQ)",
+    "price": "350.0000 – 3.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/12/IBA-5G-BOSF.jpg "
+  },
+  {
+    "id": 174,
+    "title": "Duchefa Hà Lan",
+    "name": "Silver Nitrate 99.8% (Duchefa, Cas 7761-88-8)",
+    "price": "850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Silver-nitrate-DUchefa.jpg "
+  },
+  {
+    "id": 175,
+    "title": "Duchefa Hà Lan",
+    "name": "Sodium Nitrate 99% (Duchefa, Cas 7631-99-4)",
+    "price": "1.400.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Sodium-Nitrate-Duchefa.jpg "
+  },
+  {
+    "id": 176,
+    "title": "Duchefa Hà Lan",
+    "name": "Calcium Nitrate Tetrahydrate 98.5% (Duchefa, Cas 13477-34-4)",
+    "price": "1.400.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Calcium-Nitrate-Tetrahydrate-Duchefa-510x510.jpg "
+  },
+  {
+    "id": 177,
+    "title": "Duchefa Hà Lan",
+    "name": "Ammonium Nitrate 97.5% (Duchefa, Cas 6484-52-2)",
+    "price": "1.400.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/06/Ammonium-nitrate-Duchefa-510x532.jpg "
+  },
+  {
+    "id": 178,
+    "title": "Duchefa Hà Lan",
+    "name": "Môi trường MS Không chứa Vitamins (Duchefa)",
+    "price": "1.650.000₫ – 2.400.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2022/04/Moi-truong-MS-khong-vitamins-100L-510x510.jpg "
+  },
+  {
+    "id": 179,
+    "title": "Duchefa Hà Lan",
+    "name": "Czapek Dox Broth, CDB (Duchefa)",
+    "price": "850.000₫ – 1.350.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 180,
+    "title": "Duchefa Hà Lan",
+    "name": "Bacteria Screening Medium 523 (Duchefa)",
+    "price": "2.600.000₫ – 4.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 181,
+    "title": "Duchefa Hà Lan",
+    "name": "Zeatin Riboside (Duchefa)",
+    "price": "5.700.000₫ – 10.000.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 182,
+    "title": "Duchefa Hà Lan",
+    "name": "X-Phos p-Toluidine salt (BCIP p-Toluidine salt) (Duchefa)",
+    "price": "2.400.000₫ – 12.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 183,
+    "title": "Duchefa Hà Lan",
+    "name": "X-phos disodium salt (BCIP disodium salt) (Duchefa)",
+    "price": "1.500.000₫ – 5.850.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/09/Ammonium-Dihydrogen-phosphate-Xilong.jpg"
+  },
+  {
+    "id": 184,
+    "title": "Duchefa Hà Lan",
+    "name": "X-Glc sodium salt trihydrate >98.5% (Duchefa)",
+    "price": "3.500.000₫ – 24.400.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 185,
+    "title": "Duchefa Hà Lan",
+    "name": "X-GlcA cyclohexylammonium salt 98% (Duchefa)",
+    "price": "3.500.000₫ – 23.450.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 186,
+    "title": "Duchefa Hà Lan",
+    "name": "D-Xylose >99% (Duchefa)",
+    "price": "950.000₫ – 3.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 187,
+    "title": "Duchefa Hà Lan",
+    "name": "Westvaco WV5 medium chứa vitamins (Duchefa)",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 188,
+    "title": "Duchefa Hà Lan",
+    "name": "White medium (Duchefa)",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 189,
+    "title": "Duchefa Hà Lan",
+    "name": "L-Valine 98.5% (Duchefa)",
+    "price": "1.300.000₫ – 3.800.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 190,
+    "title": "Duchefa Hà Lan",
+    "name": "Vancomycin Hydrochloride (Potency >1050 IU/mg, Duchefa, Cas 1404-93-9)",
+    "price": "650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 191,
+    "title": "Duchefa Hà Lan",
+    "name": "TRIS HCl >99% (Duchefa)",
+    "price": "950.000₫ – 6.050.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 192,
+    "title": "Duchefa Hà Lan",
+    "name": "TRIS Ultrapure >99.9% (Duchefa)",
+    "price": "3.200.000₫ – 15.500.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 193,
+    "title": "Duchefa Hà Lan",
+    "name": "Trehalose Anhydrous >99% (Duchefa)",
+    "price": "1.500.000₫ – 21.400.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 194,
+    "title": "Duchefa Hà Lan",
+    "name": "meta-Topoline >99% (Duchefa, Cas 75737-38-1)",
+    "price": "1.600.000₫ – 8.645.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/meta-Topoline-99-510x510.jpg "
+  },
+  {
+    "id": 195,
+    "title": "Duchefa Hà Lan",
+    "name": "2,3,5-Triiodobenzoic acid >95% (Duchefa)",
+    "price": "1.500.000₫ – 2.700.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 196,
+    "title": "Duchefa Hà Lan",
+    "name": "2,4,5-Trichlorophenoxyacetic acid (2,4,5-T Potassium, Duchefa, Cas 37785-57-2)",
+    "price": "2.200.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/245-Trichlorophenoxyacetic-acid-DUchefa-510x510.jpg "
+  },
+  {
+    "id": 197,
+    "title": "Duchefa Hà Lan",
+    "name": "L-Tryptophan >98.5% (Duchefa, Cas 73-22-3)",
+    "price": "1.250.000₫ – 3.350.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/L-Tryptophan-98.5-510x510.jpg "
+  },
+  {
+    "id": 198,
+    "title": "Duchefa Hà Lan",
+    "name": "L-Threonine >99% (Duchefa)",
+    "price": "1.000.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg"
+  },
+  {
+    "id": 199,
+    "title": "Duchefa Hà Lan",
+    "name": "Ticarcillin disodium / Clavulanate potassium (Duchefa)",
+    "price": "1.745.000₫ – 19.950.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Ticarcillin-disodium-Clavulanate-potassium-510x510.jpg "
+  },
+  {
+    "id": 200,
+    "title": "Duchefa Hà Lan",
+    "name": "Ticarcillin disodium >95% (Duchefa)",
+    "price": "1.600.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg "
+  },
+  {
+    "id": 201,
+    "title": "Duchefa Hà Lan",
+    "name": "Sodium Alginate (Duchefa, Cas 9005-38-3)",
+    "price": "1.500.000₫ – 4.200.000₫",
+    "description": "Mô tả sản phẩm 1",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Sodium-Alginate-Duchefa-Netherlands-510x510.jpg"
+  },
+  {
+    "id": 202,
+    "title": "Duchefa Hà Lan",
+    "name": "Rugini Olive Medium",
+    "price": "1.650.000₫",
+    "description": "Mô tả sản phẩm 2",
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Rugini-Olive-Medium-510x510.jpg "
+  },
+  {
+    "id": 203,
+    "title": "Duchefa Hà Lan",
+    "name": "Propylene Glycol >99.5% (Chai 1L, Duchefa, Cas 57-55-6)",
     "price": "1.050.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/10/Toluidine-Blue-O-Pure-Acros-Cas-92-31-9-510x510.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Propyleneglycol-510x510.jpg "
   },
   {
-    "id": 73,
-    "title": "Acros ",
-    "name": "Sodium Caseinate, Pract ≥92% (Acros, Cas 9005-46-3)",
-    "price": "Liên hệ để báo giá",
+    "id": 204,
+    "title": "Duchefa Hà Lan",
+    "name": "Oxytetracycline HCl >95% (Duchefa, Cas 2058-46-0)",
+    "price": "750.000₫ – 2.050.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Sodium-Caseinate.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Oxytetracycline-HCl-510x501.jpg "
   },
   {
-    "id": 74,
-    "title": "Acros ",
-    "name": "Coumarin ≥99% (Acros, Cas 91-64-5)",
-    "price": "Liên hệ để báo giá",
-    "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Coumarin-99-Acros-Organics-Cas-91-64-5-510x510.jpg"
-  },
-  {
-    "id": 75,
-    "title": "Acros ",
-    "name": "Diphenylamine (ACS Reagent, Chai 5G, Acros, Cas 122-39-4)",
-    "price": "1.050.000₫",
+    "id": 205,
+    "title": "Duchefa Hà Lan",
+    "name": "p-Nitroglycerin-β-D-glucuronide (Duchefa)",
+    "price": "1.500.000₫ – 4.750.000₫",
     "description": "Mô tả sản phẩm 1",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/09/Diphenylamine-ACS-Reagent-Acros-Cas-122-39-4.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/p-Nitrophenyl-%CE%B2-D-glucuronide.jpg "
   },
   {
-    "id": 76,
-    "title": "Acros ",
-    "name": "Mercury (II) iodide >99% (Chai 25G, ACS reagent, Red, Acros, Cas 7774-29-0)",
-    "price": "1.750.000₫",
+    "id": 206,
+    "title": "Duchefa Hà Lan",
+    "name": "MES monohydrate >99%(Duchefa, Cas 145224-94-8)",
+    "price": "750.000₫ – 4.500.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/08/MercuryII-iodide-99-ACS-reagent-Red-Acros-Cas-7774-29-0-510x510.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/MES-monohydrate-DUchefa-510x510.jpg "
   },
   {
-    "id": 77,
-    "title": "Acros Organics",
-    "name": "Deoxycholic acid, sodium salt 99% (Acros, Cas 302-95-4)",
-    "price": "Liên hệ để báo giá",
+    "id": 207,
+    "title": "Duchefa Hà Lan",
+    "name": "Jasmonic acid >95% (Duchefa, Cas 3572-66-5)",
+    "price": "4.750.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/07/Deoxycholic-acid-sodium-salt-99-Acros-Cas-302-95-4-510x510.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Jasmonic-acid-95-510x510.jpg "
   },
   {
-    "id": 78,
-    "title": "Acros ",
-    "name": "5-Fluorouracil 99% (Acros, Cas 51-21-8)",
-    "price": "Liên hệ để báo giá",
+    "id": 208,
+    "title": "Duchefa Hà Lan",
+    "name": "Gluthatione reduced >98% (Duchefa, Cas 70-18-8)",
+    "price": "1.050.000₫ – 12.500.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/06/5-Fluorouracil-99-Acros-Cas-51-21-8.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/GLutathione-reduced-Duchefa-510x510.jpg "
   },
   {
-    "id": 79,
-    "title": "Acros ",
-    "name": "Ethyl L(-)-lactate 97% (Acros, Cas 687-47-8)",
-    "price": "1.990.000₫",
+    "id": 209,
+    "title": "Duchefa Hà Lan",
+    "name": "Fe-EDDHA (EDDHA Ferric, Duchefa) ",
+    "price": "1.050.000₫ – 3.400.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/06/Ethyl-L-lactate-97-Acros-Cas-687-47-8-510x510.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Fe-EDDHA-510x510.jpg "
   },
   {
-    "id": 80,
-    "title": "Acros ",
-    "name": "Meropenem trihydrate (Acros, Cas 119478-56-7)",
-    "price": "Liên hệ để báo giá",
+    "id": 210,
+    "title": "Duchefa Hà Lan",
+    "name": "Cellulase Onozuka R-10 (Duchefa, Cas 9012-54-8)",
+    "price": "1.320.000₫ – 3.500.000₫",
     "description": "Mô tả sản phẩm 2",
-    "img": "https://hoachatthinghiem.org/wp-content/uploads/2023/04/Meropenem-trihydrate-Acros-Cas-119478-56-7.jpg"
+    "img": "https://hoachatthinghiem.org/wp-content/uploads/2021/08/Cellulase-Onozuka-R-10.jpg"
   }
 ]
