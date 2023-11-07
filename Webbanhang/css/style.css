@@ -1027,24 +1027,71 @@ footer.top .socials > a {
     transform: translateX(200%);
 }
 
-#forgot .title h1{
-    text-align: center;
-    margin-top: 50px;
-    font-size: 30px;
-}
-#forgot .title p{
-    text-align: center;
-    margin-top: 20px;
-    font-size: 20px;
-}
-#forgot .input_container .input{
-    text-align: center;
-}
-
-#forgot .input_container {
-    display: block;
 
 
+/*forgot*/
+/* Phần "forgot" */
+#forgot {
+    background-color: #fff;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+/* Phần tiêu đề "title" */
+.title {
+    margin-bottom: 20px;
+}
+.title h1 {
+    font-size: 24px;
+    color: #512da8;
+}
+.title p {
+    color: #777;
+}
+/* Phần "input_container" */
+.input_container {
+    text-align: left;
+}
+/* Phần "input" */
+.input {
+    margin-bottom: 15px;
+}
+.input input[type="Email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+}
+.input button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #512da8;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.input button:hover {
+    background-color: #311A77FF;
+}
+.input a {
+    text-decoration: none;
+    color: #512da8;
+    font-size: 14px;
+    float: right;
+    margin-top: 10px;
+}
+.input a:hover {
+    text-decoration: underline;
 }
 
 
