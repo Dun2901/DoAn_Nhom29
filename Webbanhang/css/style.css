@@ -1027,7 +1027,25 @@ footer.top .socials > a {
     transform: translateX(200%);
 }
 
+#forgot .title h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+#forgot .title p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+#forgot .input_container .input{
+    text-align: center;
+}
 
+#forgot .input_container {
+    display: block;
+
+
+}
 
 
 /*responsive*/
