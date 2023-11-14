@@ -29,8 +29,22 @@
                 <li class="nav_item">
                     <a href="index.html" class="nav_link">Trang chủ</a>
                 </li>
-                <li class="nav_item">
-                    <a href="product-list.html" class="nav_link">Sản phẩm</a>
+                <li class="nav_item services">
+                    <a href="#" class="nav_link">Sản phẩm
+                        <span class="material-icons dropdown-icon">
+                            <i class="fa-solid fa-sort-down"></i>
+                        </span>
+                    </a>
+                    <ul class="drop-down"  id="mobileDropdown">
+                        <li><a href="product-list.html">Xem tất cả sản phẩm</a></li>
+                        <li><a href="#">DUCHEFA HÀ LAN</a></li>
+                        <li><a href="#">BOSF TRUNG QUỐC</a></li>
+                        <li><a href="#">MERCK ĐỨC</a></li>
+                        <li><a href="#">WAKO NHẬT BẢN</a></li>
+                        <li><a href="#">ACROS ORGANICS</a></li>
+                        <li><a href="#">BIOBASIC CANADA</a></li>
+                        <li><a href="#">HIMEDIA LABS</a></li>
+                    </ul>
                 </li>
                 <li class="nav_item">
                     <a href="contact.html" class="nav_link">Liên hệ</a>
@@ -40,26 +54,26 @@
         <div class="nav_right">
             <a href="checkout.html"><img src="./css/images/cart.png" alt="" class="nav_icon"/></a>
             <a href="login.html"><img src="./css/images/user.png" alt="" class="nav_icon"/></a>
-            <a href="#" id="menu_icon" class="nav_icon"><i class="fa-solid fa-bars"></i></a>
+            <a href="#" id="menu_icon" class="nav_icon" onclick="toggleDropdown()"><i class="fa-solid fa-bars"></i></a>
         </div>
     </div>
 </nav>
 
 <section id="page_header">
-    <h2>#cart</h2>
-    <p>Add your coupon code & SAVE upto 70%!</p>
+    <h2>#giỏ hàng</h2>
+    <p>Thêm mã giảm giá của bạn và TIẾT KIỆM lên đến 70%!</p>
 </section>
 
 <section id="cart" class="section-p1">
     <table width="100%">
         <thead>
         <tr>
-            <td>Remove</td>
-            <td>Image</td>
-            <td>Product</td>
-            <td>Price</td>
-            <td>Quantity</td>
-            <td>Subtotal</td>
+            <td>Xóa</td>
+            <td>Ảnh</td>
+            <td>Tên sản phẩm</td>
+            <td>Giá</td>
+            <td>Số lượng</td>
+            <td>Tổng</td>
         </tr>
         </thead>
         <tbody>
@@ -93,18 +107,18 @@
 
 <section id="cart-add" class="section-p1">
     <div id="coupon">
-        <h3>Apply Coupon</h3>
+        <h3>Áp mã giảm giá</h3>
         <div>
             <input type="text" placeholder="Enter Your Coupon">
-            <button class="normal">Apply</button>
+            <button class="normal">Áp mã</button>
         </div>
     </div>
 
     <div id="subtotal">
-        <h3>Cart Total</h3>
+        <h3>Tổng giỏ hàng</h3>
         <table>
             <tr>
-                <td>Cart subtotal</td>
+                <td>Tổng cộng</td>
                 <td>2.000.000₫</td>
             </tr>
             <tr>
@@ -112,11 +126,11 @@
                 <td>Free</td>
             </tr>
             <tr>
-                <td><strong>Total</strong></td>
+                <td><strong>Thành tiền</strong></td>
                 <td><strong>2.000.000₫</strong></td>
             </tr>
         </table>
-        <button class="normal">Proceed to checkout</button>
+        <button class="normal">Tiến hành thanh toán</button>
     </div>
 </section>
 
