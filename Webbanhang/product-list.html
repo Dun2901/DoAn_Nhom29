@@ -24,8 +24,22 @@
                 <li class="nav_item">
                     <a href="index.html" class="nav_link">Trang chủ</a>
                 </li>
-                <li class="nav_item">
-                    <a href="product-list.html" class="nav_link active">Sản phẩm</a>
+                <li class="nav_item services">
+                    <a href="#" class="nav_link active">Sản phẩm
+                        <span class="material-icons dropdown-icon">
+                            <i class="fa-solid fa-sort-down"></i>
+                        </span>
+                    </a>
+                    <ul class="drop-down"  id="mobileDropdown">
+                        <li><a href="product-list.html">Xem tất cả sản phẩm</a></li>
+                        <li><a href="#">DUCHEFA HÀ LAN</a></li>
+                        <li><a href="#">BOSF TRUNG QUỐC</a></li>
+                        <li><a href="#">MERCK ĐỨC</a></li>
+                        <li><a href="#">WAKO NHẬT BẢN</a></li>
+                        <li><a href="#">ACROS ORGANICS</a></li>
+                        <li><a href="#">BIOBASIC CANADA</a></li>
+                        <li><a href="#">HIMEDIA LABS</a></li>
+                    </ul>
                 </li>
                 <li class="nav_item">
                     <a href="contact.html" class="nav_link">Liên hệ</a>
@@ -35,18 +49,18 @@
         <div class="nav_right">
             <a href="checkout.html"><img src="./css/images/cart.png" alt="" class="nav_icon"/></a>
             <a href="login.html"><img src="./css/images/user.png" alt="" class="nav_icon"/></a>
-            <a href="#" id="menu_icon" class="nav_icon"><i class="fa-solid fa-bars"></i></a>
+            <a href="#" id="menu_icon" class="nav_icon" onclick="toggleDropdown()"><i class="fa-solid fa-bars"></i></a>
         </div>
     </div>
 </nav>
 <section id="page_header">
     <h2>#stayhome</h2>
-    <p>Save more with coupons & up to 70% off!</p>
+    <p>Tiết kiệm hơn với phiếu giảm giá và giảm giá lên đến 70%!</p>
 </section>
 
 <section id="product1" class="section-p1">
-    <h2>Featured Products</h2>
-    <p>summer Collection New</p>
+    <h2>Sản phẩm nội bật</h2>
+    <p>Các bộ sưu tập</p>
     <div class="pro-container" id="product-container">
 
     </div>
