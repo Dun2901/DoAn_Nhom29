@@ -646,7 +646,8 @@ footer.top .socials > a {
     display: inline-block;
     padding: 10px;
     margin: 5px;
-    background-color: #007bff;
+    background-color: #07bdad;
+    /*#088178*/
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -654,11 +655,11 @@ footer.top .socials > a {
 }
 
 .page-link:hover {
-    background-color: #0056b3;
+    background-color: #088178;
 }
 
 .current-page {
-    background-color: #0056b3; /* Màu nền khác cho trang hiện tại */
+    background-color: #088178; /* Màu nền khác cho trang hiện tại */
     font-weight: bold; /* Hoặc thay đổi kiểu chữ, ví dụ: in đậm */
 }
 
