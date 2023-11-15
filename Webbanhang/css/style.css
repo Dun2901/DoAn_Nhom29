@@ -1,11 +1,11 @@
-/* Google Font CDN Link */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+/*import font*/
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;600;700&family=Poppins:wght@300;700&display=swap');
 
 :root {
     --color-primary: #c1dcdc;
     --color-dark-1: #1e1e1e;
     --color-dark-2: #6d6d6d;
-    ---font-primary: "Poppins", sans-serif;
+    ---font-primary: 'Be Vietnam Pro', sans-serif;
     --font-logo: "Kanit", sans-serif;
 }
 * {
@@ -552,10 +552,9 @@ footer.top .socials > a {
 
 /*Css for product-list*/
 #page_header {
-    background-image: url(./images/bgg3.png);
+    background: url(./images/bgg5.jpg) center/cover no-repeat;
     width: 100%;
     height: 70vh;
-    background-size: cover;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -871,6 +870,183 @@ footer.top .socials > a {
     padding: 10px;
     font-size: 13px;
 }
+
+
+/*css for order*/
+#order {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 20px;
+    margin: 20px;
+
+}
+
+.form h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+#input_tt input {
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+#input_tt textarea {
+    resize: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+#input_tt input, #input_tt textarea {
+    border: 1px solid #ddd; /* Light border color */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+#infor_dh {
+    padding: 15px;
+    border: 3px solid #ccc;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+
+.section-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#order-summary {
+    padding: 10px;
+}
+
+.order-col {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.order-total {
+    color: green;
+}
+
+#pttt {
+    margin-top: 20px;
+}
+.pttt-title {
+    margin-bottom: 20px;
+}
+
+.col-btn {
+    margin-bottom: 10px;
+}
+
+.col-btn #line {
+    width: 600px;
+    margin-top: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+
+.footer-payments {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-payments li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.input-checkbox {
+    margin-top: 10px;
+}
+#terms {
+    accent-color: #74992e;
+}
+
+.input-checkbox input[type="checkbox"] {
+    display: none; /* Hide the default checkbox */
+}
+
+.input-checkbox label {
+    position: relative;
+    padding-left: 30px; /* Space for a custom checkbox */
+    cursor: pointer;
+}
+
+.input-checkbox span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background-color: #fff; /* Background color for the checkbox */
+    border: 2px solid #4CAF50; /* Border color for the checkbox */
+    border-radius: 5px;
+}
+
+.input-checkbox input:checked + label span {
+    background-color: #4CAF50; /* Background color when checked */
+}
+
+.btn_confirm {
+    width: 100%;
+    margin-top: 10px;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn_confirm:hover {
+    background-color: #45a049;
+}
+
+
+/*css for success*/
+#success {
+    text-align: center;
+    padding: 20px;
+}
+
+#img img {
+    width: 100px; /* Điều chỉnh kích thước của hình ảnh kiểm tra */
+    height: auto; /* Giữ tỷ lệ khung hình ảnh */
+}
+
+#text {
+    margin-top: 20px;
+}
+
+#btn_ttms {
+    margin-top: 20px;
+}
+
+.continue {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Màu xanh lá cây */
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.continue:hover {
+    background-color: #45a049; /* Màu xanh lá cây tối hơn khi rê chuột vào */
+}
+
 
 
 /*css for login*/
@@ -1354,6 +1530,29 @@ footer.top .socials > a {
     }
     .social-icons {
         display: none;
+    }
+
+    /*order*/
+    #order {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    .form h1 {
+        text-align: center;
+    }
+    #infor_dh {
+        width: 100%;
+    }
+
+    .form input,
+    .form textarea {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .col-btn #line {
+        width: 100%;
     }
 }
 

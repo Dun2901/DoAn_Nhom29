@@ -26,7 +26,7 @@
             <a href="#" class="nav_logo">CHEMICAL</a>
             <ul class="nav_list open">
                 <li class="nav_item">
-                    <a href="index.html" class="nav_link active">Trang chủ</a>
+                    <a href="index.html" class="nav_link">Trang chủ</a>
                 </li>
                 <li class="nav_item">
                     <a href="product-list.html" class="nav_link">Sản phẩm</a>
@@ -54,11 +54,11 @@
         <div id="input_tt">
             <input type="text" placeholder="Họ và tên">
             <input type="email" placeholder="Email">
-            <input type="number" placeholder="Số điện thoại">
+            <input type="tel" placeholder="Số điện thoại">
             <input type="text" placeholder="Địa chỉ">
             <input type="text" placeholder="Tỉnh / thành">
-            <input type="text" placeholder="QUận / huyện">
-            <input type="text" placeholder="Ghi chú(không bắt buộc)">
+            <input type="text" placeholder="Quận / huyện">
+            <textarea type="text" placeholder="Ghi chú (không bắt buộc)"></textarea>
         </div>
     </div>
 
@@ -72,13 +72,13 @@
                 <div><strong> TỔNG CỘNG</strong></div>
             </div>
             <div class="order-products">
-                <div class="orrder-col">
+                <div class="order-col">
                     <div>Gum acacia powder</div>
                     <div>450.000₫</div>
                 </div>
                 <div class="order-col">
-                 <div>Soya Peptone (Himedia)</div>
-                    <div>1.450.000₫	</div>
+                    <div>Soya Peptone (Himedia)</div>
+                    <div>1.450.000₫</div>
                 </div>
                 <div class="order-col">
                     <div>Glucose Agar (Himedia)</div>
@@ -95,31 +95,34 @@
             </div>
         </div>
 
-    <div id="pttt">
-        <div><strong> PHƯƠNG THỨC THANH TOÁN</strong></div>
-        <div class="row">
-            <div class="col-btn">
-                <input name="collapseGroup" type="radio" data-toggle="collapse" data-target=".collapseTwo.in"> Thanh toán khi giao hàng (COD)<br>
-                <input name="collapseGroup" type="radio" data-toggle="collapse" data-target=".collapseTwo:not(.in)"> Thanh toán qua thẻ tín dụng (Card)
-            <div id="group">
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                         <div class="collapseTwo panel-collapse collapse">
-                             <div class="text-center">
-                    <ul class="footer-payments">
-                        <li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
-                        <li><a href="#"><i class="fa fa-credit-card"></i></a></li>
-                        <li><a href="#"><i class="fa fa-cc-paypal"></i></a></li>
-                        <li><a href="#"><i class="fa fa-cc-mastercard"></i></a></li>
-                    </ul>
+        <div id="pttt">
+            <div class="pttt-title"><strong> PHƯƠNG THỨC THANH TOÁN</strong></div>
+            <div class="row">
+                <div class="col-btn">
+                    <input name="collapseGroup" type="radio" data-toggle="collapse" data-target=".collapseTwo.in"> Thanh
+                    toán khi giao hàng (COD)<br>
+                    <input name="collapseGroup" type="radio" data-toggle="collapse" data-target=".collapseTwo:not(.in)">
+                    Thanh toán qua thẻ tín dụng (Card)
+                    <div id="line"></div>
+                    <div id="group">
+                        <div class="panel-group" id="accordion">
+                            <div class="panel panel-default">
+                                <div class="collapseTwo panel-collapse collapse">
+                                    <div class="text-center">
+                                        <ul class="footer-payments">
+                                            <li><a href="#"><i class="fa-brands fa-cc-visa"></i></a></li>
+                                            <li><a href="#"><i class="fa-solid fa-credit-card"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-paypal"></i></a></li>
+                                            <li><a href="#"><i class="fa-brands fa-cc-mastercard"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-</div>
-</div>
-</div>
         <div class="input-checkbox">
             <input type="checkbox" id="terms">
             <label for="terms">
@@ -127,8 +130,9 @@
                 Tôi đã đọc và chấp nhận các <a href="#">điều khoản</a>
             </label>
         </div>
-        <a href="success.html" > <button class="btn_confirm">XÁC NHẬN ĐẶT HÀNG</button></a>
-
+        <a href="success.html">
+            <button class="btn_confirm">XÁC NHẬN ĐẶT HÀNG</button>
+        </a>
     </div>
 </section>
 
