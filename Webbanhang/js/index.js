@@ -18,6 +18,11 @@ menuIcon.addEventListener("click", (e) => {
 });
 
 
+// Function to toggle the dropdown menu
+function toggleDropdown() {
+    var dropdown = document.getElementById("mobileDropdown");
+    dropdown.classList.toggle("show");
+}
 
 
 const productsPerPage = 36; // Số sản phẩm trên mỗi trang

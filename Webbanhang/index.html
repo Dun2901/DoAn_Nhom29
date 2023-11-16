@@ -27,9 +27,23 @@
             <ul class="nav_list open">
                 <li class="nav_item">
                     <a href="index.html" class="nav_link active">Trang chủ</a>
-                </li>
-                <li class="nav_item">
-                    <a href="product-list.html" class="nav_link">Sản phẩm</a>
+                  </li>
+                <li class="nav_item services">
+                    <a href="#" class="nav_link">Sản phẩm
+                        <span class="material-icons dropdown-icon">
+                            <i class="fa-solid fa-sort-down"></i>
+                        </span>
+                    </a>
+                    <ul class="drop-down"  id="mobileDropdown">
+                        <li><a href="product-list.html">Xem tất cả sản phẩm</a></li>
+                        <li><a href="#">DUCHEFA HÀ LAN</a></li>
+                        <li><a href="#">BOSF TRUNG QUỐC</a></li>
+                        <li><a href="#">MERCK ĐỨC</a></li>
+                        <li><a href="#">WAKO NHẬT BẢN</a></li>
+                        <li><a href="#">ACROS ORGANICS</a></li>
+                        <li><a href="#">BIOBASIC CANADA</a></li>
+                        <li><a href="#">HIMEDIA LABS</a></li>
+                    </ul>
                 </li>
                 <li class="nav_item">
                     <a href="contact.html" class="nav_link">Liên hệ</a>
@@ -39,29 +53,29 @@
         <div class="nav_right">
             <a href="checkout.html"><img src="./css/images/cart.png" alt="" class="nav_icon"/></a>
             <a href="login.html"><img src="./css/images/user.png" alt="" class="nav_icon"/></a>
-            <a href="#" id="menu_icon" class="nav_icon"><i class="fa-solid fa-bars"></i></a>
+            <a href="#" id="menu_icon" class="nav_icon" onclick="toggleDropdown()"><i class="fa-solid fa-bars"></i></a>
         </div>
     </div>
 </nav>
 <div class="container header_container">
     <div class="header_content">
         <div class="wrapper">
-            <h1 class="headet_main_title">Welcome to Chemical Suppliers</h1>
+            <h1 class="headet_main_title">Chào mừng đến với Nhà Cung cấp Hóa chất</h1>
             <div class="header_items">
                 <div class="header_item">
                     <p class="header_item_number">200+</p>
-                    <p class="header_item_text">Chemical Products</p>
+                    <p class="header_item_text">Sản phẩm hóa chất</p>
                 </div>
                 <div class="header_item">
                     <p class="header_item_number">100+</p>
-                    <p class="header_item_text">Customers</p>
+                    <p class="header_item_text">Khách hàng</p>
                 </div>
             </div>
             <form action="#" class="header_form">
                 <input
                         type="text"
                         class="header_form_input"
-                        placeholder="What are you looking for?"/>
+                        placeholder="Bạn đang tìm kiếm cái gì?"/>
                 <img src="./css/images/search.png" alt="" class="header_form_icon"/>
             </form>
         </div>
@@ -75,23 +89,23 @@
         </div>
         <div class="img_container">
             <div class="widget_img">
-                <img src="https://10web-site.ai/7/wp-content/uploads/sites/8/2023/08/recycled-shoe-store-featured-in-logo-5_4RjCRxrA.webp"
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_g_CICto9lt76StTVhwsdPDU9K6dZW2tGVQ&usqp=CAU"
                      alt="img">
             </div>
             <div class="widget_img">
-                <img src="https://10web-site.ai/7/wp-content/uploads/sites/8/2023/08/recycled-shoe-store-featured-in-logo-4_4RjCRxrA.webp"
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHInAEFvWiNf_kGTSTjXJEFO8FrbLVY3yDZnWcH6n3Gd6bGZW9xzxtcy7iWHh41Rcg2O4&usqp=CAU"
                      alt="img">
             </div>
             <div class="widget_img">
-                <img src="https://10web-site.ai/7/wp-content/uploads/sites/8/2023/08/recycled-shoe-store-featured-in-logo-3-1-1_4RjCRxrA.webp"
+                <img src="https://www.labvolution.de/apollo/labvolution_2023/obs/Grafik/A1243090/LOG_DE0_47400_70683_167653423642145500_aeid_60__73_atomfeld_60_73-1796571676534411.jpg.png"
                      alt="img">
             </div>
             <div class="widget_img">
-                <img src="https://10web-site.ai/7/wp-content/uploads/sites/8/2023/08/recycled-shoe-store-featured-in-logo-2-1-1_4RjCRxrA.webp"
+                <img src="https://khovattuthietbi.com/images/news/anh1.jpg"
                      alt="img">
             </div>
             <div class="widget_img">
-                <img src="https://10web-site.ai/7/wp-content/uploads/sites/8/2023/08/recycled-shoe-store-featured-in-logo-1-1_4RjCRxrA.webp"
+                <img src="https://seeklogo.com/images/B/biobasic-inc-logo-3B543E9EF7-seeklogo.com.png"
                      alt="img">
             </div>
         </div>
@@ -102,17 +116,17 @@
         <div class="container">
             <div class="row">
                 <div class="flex">
-                    <h2>About Us</h2>
-                    <h3>Trusted Chemical Suppliers for Your Research Needs</h3>
+                    <h2>Về chúng tôi</h2>
+                    <h3>Nhà cung cấp hóa chất đáng tin cậy cho nhu cầu nghiên cứu của bạn</h3>
                     <p>
-                        At Chemical Suppliers, we are dedicated to providing high-quality chemicals to researchers in a wide range of fields. Our extensive inventory of analytical standards, fine chemicals, solvents, and biochemicals is complemented by our knowledgeable staff and unwavering commitment to quality.
+                        Tại Nhà Cung cấp Hóa chất, chúng tôi cam kết cung cấp hóa chất chất lượng cao cho các nhà nghiên cứu trong nhiều lĩnh vực khác nhau. Kho hóa chất của chúng tôi bao gồm các tiêu chuẩn phân tích, hóa chất tinh khiết, dung môi và hóa chất sinh học, điều này được bổ sung bởi đội ngũ nhân viên am hiểu và cam kết kiên định đối với chất lượng.
                     </p>
                     <div class="social_links">
                         <a href=""><i class="fab fa-facebook-f"></i></a>
                         <a href=""><i class="fab fa-twitter"></i></a>
                         <a href=""><i class="fab fa-instagram"></i></a>
                     </div>
-                    <a href="" class="btn">read more</a>
+                    <a href="" class="btn">đọc thêm</a>
                 </div>
                 <div class="flex">
                     <img src="https://10web-site.ai/7/wp-content/uploads/sites/8/2023/10/recycled-shoe-store-home-about-image_5qgLGiLQ.webp">
@@ -124,11 +138,11 @@
 <section class="section">
     <div class="container selling_container">
         <div class="selling_item">
-            <h2 class="selling_h2">Sales</h2>
+            <h2 class="selling_h2">Mua sắm</h2>
             <p class="selling_p">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Sản phẩm của chúng tôi bao gồm các tiêu chuẩn phân tích chính xác, hóa chất tinh khiết và dung môi đảm bảo đáp ứng các yêu cầu khắt khe nhất trong lĩnh vực nghiên cứu.
             </p>
-            <a href="product-list.html" class="selling_btn">See more &rarr;</a>
+            <a href="product-list.html" class="selling_btn">Xem thêm &rarr;</a>
         </div>
         <div class="selling_item">
             <img src="https://hoachatthinghiem.org/wp-content/uploads/2023/09/Gum-acacia-powder-Gum-arabic-Himedia-Cas-9000-01-5.jpg" alt="" class="selling_item_img"/>
@@ -150,7 +164,7 @@
 <section class="section">
     <div class="container">
         <div class="section_header">
-            <h2 class="section_h2">Categories</h2>
+            <h2 class="section_h2">Các loại sản phẩm</h2>
             <p class="section_p">Find what you are looking for</p>
         </div>
     </div>
@@ -171,9 +185,9 @@
         </div>
         <div class="container categories_bottom">
             <p class="categories_p">
-                Horem ipsum dolor sit amet, consectetur adipiscing elit.
+                Có nhiều loại hóa chất rất đa dạng và phong phú
             </p>
-            <a href="#" class="categories_btn">See more &rarr;</a>
+            <a href="#" class="categories_btn">Xem thêm &rarr;</a>
         </div>
     </div>
 </section>
@@ -181,8 +195,8 @@
     <div class="container">
         <div class="section_header">
             <h2 class="section_h2">
-                What clients say about <br/>
-                Chemical?
+                những nhận xét từ khách hàng về <br/>
+                hóa chất?
             </h2>
         </div>
         <div class="reviews">
@@ -289,26 +303,25 @@
     <footer class="top">
         <div class="links">
             <div class="links-column">
-                <h2>Get Started</h2>
-                <a>Introduction</a>
-                <a>Documentation</a>
-                <a>Usage</a>
-                <a>Globals</a>
-                <a>Elements</a>
+                <h2>Giới thiệu</h2>
+                <a>Lịch sử hình thành</a>
+                <a>Sơ đồ tổ chức</a>
+                <a>Chính sách chất lượng</a>
+                <a>Ấn phẩm công ty</a>
+                <a>Hồ sơ năng lực</a>
             </div>
             <div class="links-column">
-                <h2>Resources</h2>
-                <a>API</a>
-                <a>Visibility</a>
-                <a>Accessibility</a>
-                <a>Community</a>
-                <a>Marketplace</a>
+                <h2>Chính sách</h2>
+                <a>Thanh toán</a>
+                <a>Bảo hành</a>
+                <a>Đổi trả hàng</a>
+                <a>Vận chuyển</a>
+                <a>Bảo mật</a>
             </div>
             <div class="links-column socials-column">
-                <h2>Social Media</h2>
+                <h2>Kết nối với chúng tôi</h2>
                 <p>
-                    Follow us on social media to find out the latest updates on our
-                    progress.
+                    Theo dõi chúng tôi trên mạng xã hội để tìm hiểu những cập nhật mới nhất về tiến trình của chúng tôi.
                 </p>
                 <div class="socials">
                     <a class="fa-brands fa-facebook"></a>
@@ -327,6 +340,7 @@
         </div>
     </footer>
 </section>
+
 
 <!--Link JS-->
 <script src="js/index.js"></script>
