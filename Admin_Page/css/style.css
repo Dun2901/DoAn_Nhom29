@@ -60,6 +60,7 @@ body{
     overflow-x: hidden;
     scrollbar-width: none;
     transition: all 0.3s ease;
+    font-weight: 700;
 }
 
 .sidebar::-webkit-scrollbar{
@@ -76,10 +77,12 @@ body{
     height: 56px;
     display: flex;
     align-items: center;
-    color: var(--primary);
     z-index: 500;
     padding-bottom: 20px;
     box-sizing: content-box;
+    font-family: var(--font-logo);
+    color: var(--primary);
+
 }
 
 .sidebar .logo .logo-name span{
@@ -168,6 +171,13 @@ body{
 .sidebar .side-menu li a.logout{
     color: var(--danger);
 }
+.avt img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 
 .content{
     position: relative;
