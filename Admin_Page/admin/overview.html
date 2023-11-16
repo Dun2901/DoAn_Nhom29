@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="../css/overview.css">
+    <title>Trang bán hóa chất thí nghiệm</title>
+</head>
+
+<body>
+
+<!-- Sidebar -->
+<div class="sidebar">
+    <a href="#" class="logo">
+        <div class="logo-name"><span>Admin</span> Chemical</div>
+    </a>
+    <ul class="side-menu">
+        <li><a href="#"><i class='bx bxs-dashboard'></i>Tổng Quan</a></li>
+        <li><a href="order.html"><i class='bx bx-store-alt'></i>Sản Phẩm</a></li>
+        <li><a href="#"><i class="bx bx-cart"></i></i>Đơn Hàng</a></li>
+        <li><a href="#"><i class="bx bx-window"></i></i>Banner</a></li>
+        <li><a href="#"><i class="bx "></i></i>Khuyến Mãi</a></li>
+        <li><a href="#"><i class='bx bx-group'></i>Tài Khoảng</a></li>
+    </ul>
+    <ul class="side-menu">
+        <li>
+            <a href="#" class="logout">
+                <i class='bx bx-log-out-circle'></i>
+                Logout
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="content">
+    <nav>
+        <i class='bx bx-menu'></i>
+        <form action="#">
+            <div class="form-input">
+                <input type="search" placeholder="Tìm kiếm...">
+                <button class="search-btn" type="submit"><i class='bx bx-search'></i></button>
+            </div>
+        </form>
+        <input type="checkbox" id="theme-toggle" hidden>
+        <label for="theme-toggle" class="theme-toggle"></label>
+        <a href="#" class="notif">
+            <i class='bx bx-bell'></i>
+        </a>
+        <a href="#" class="profile">
+            <img src="images/logo.png">
+        </a>
+    </nav>
+
+    <!-- End of Navbar -->
+
+    <main>
+        <div class="header">
+            <div class="left">
+                <h1>Tổng Quan</h1>
+                <ul class="breadcrumb">
+                    <li><a href="#">
+                        ADMIN
+                    </a></li>
+                    /
+                    <li><a href="#" class="active">Tổng Quan</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Insights -->
+        <ul class="insights">
+            <li>
+                <i class='bx bx-calendar-check'></i>
+                <span class="info">
+                        <h3>
+                            556
+                        </h3>
+                        <p>Tổng Đơn</p>
+                    </span>
+            </li>
+            <li><i class='bx bx-dollar-circle'></i>
+                <span class="info">
+                        <h3>
+                            324.956.000vnd
+                        </h3>
+                        <p>Tài Chính</p>
+                    </span>
+            </li>
+            <li><i class='bx bx-show-alt'></i>
+                <span class="info">
+                        <h3>
+                            3,944
+                        </h3>
+                        <p>Người Tiếp Cận</p>
+                    </span>
+            </li>
+            <li><i class='bx bx-line-chart'></i>
+                <span class="info">
+                        <h3 style="&#8593;">
+
+                        </h3>
+                        <p>Lượt Mua</p>
+                    </span>
+            </li>
+        </ul>
+        </div>
+
+    </main>
+
+</div>
+
+<script src="../index.js"></script>
+</body>
+
+</html>
