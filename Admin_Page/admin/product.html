@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="../css/order.css">
+
+    <link rel="stylesheet" href="../css/style.css">
     <title>Trang bán hóa chất thí nghiệm</title>
 </head>
 <body>
@@ -16,7 +17,6 @@
         <li><a href="overview.html"><i class='bx bxs-dashboard'></i>Tổng Quan</a></li>
         <li><a href="product.html"><i class='bx bx-store-alt'></i>Sản Phẩm</a></li>
         <li><a href="order.html"><i class="bx bx-cart"></i></i>Đơn Hàng</a></li>
-        <li><a href="voucher.html"><i class="bx bx-window"></i></i>Voucher</a></li>
         <li><a href="users.html"><i class='bx bx-group'></i>Tài Khoản</a></li>
     </ul>
     <ul class="side-menu">
@@ -44,10 +44,92 @@
             <i class='bx bx-bell'></i>
             <span class="count">12</span>
         </a>
-        <a href="#" class="profile">
-            <img src="images/logo.png">
+        <a href="users.html" class="profile">
+            <img src="https://icon-library.com/images/admin-login-icon/admin-login-icon-15.jpg">
         </a>
     </nav>
+    <main>
+        <div class="header">
+            <div class="left">
+                <h1>Sản Phẩm</h1>
+                <ul class="breadcrumb">
+                    <li><a href="#">
+                        ADMIN
+                    </a></li>
+                    /
+                    <li><a href="#" class="active">Sản Phẩm</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="bottom-data">
+            <div class="orders">
+                <div class="header">
+                    <i class='bx bx-receipt'></i>
+                    <h3>Danh Sách Sản Phẩm</h3>
+                    <i class='bx bx-plus'></i>
+                    <i class='bx bx-filter'></i>
+                    <i class='bx bx-search'></i>
+
+                </div>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Tên</th>
+                        <th>Hãng</th>
+                        <th>Giá</th>
+                        <th>Mô Tả</th>
+                        <th>Số Lượng</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <img src="https://hoachatthinghiem.org/wp-content/uploads/2023/01/Ethidium-Bromide-95-Cas-1239-45-8.jpg">
+                            <p>Ethidium Bromide 95% (Cas 1239-45-8)</p>
+                        </td>
+                        <td>Acros Organics</td>
+                        <td>1.450.000₫</td>
+                        <td>Mô tả sản phẩm 2</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="https://hoachatthinghiem.org/wp-content/uploads/2023/02/Glutaraldehyde-25-biobasic-scaled-510x510.jpg">
+                            <p>Glutaraldehyde 25% solution (Biobasic, Cas 111-30-8)</p>
+                        </td>
+                        <td>Biobasic</td>
+                        <td>2.100.000₫</td>
+                        <td>Mô tả sản phẩm</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="https://hoachatthinghiem.org/wp-content/uploads/2021/01/Zeatin-ZB0747-510x510.jpg">
+                            <p>Zeatin (ZB0747, Biobasic)</p>
+                        </td>
+                        <td>Biobasic</td>
+                        <td>5.200.000₫</td>
+                        <td>Mô tả sản phẩm </td>
+                        <td>13</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/04/TDZ-Thidiazuron-1G-BOSF.jpg">
+                            <p>Thidiazuron >98% (TDZ, TQ, Cas 51707-55-2)</p>
+                        </td>
+                        <td>BOSF TQ</td>
+                        <td>550.000₫ – 2.800.000₫</td>
+                        <td>Mô tả sản phẩm</td>
+                        <td>22</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="pagination" class="pagination">
+        </div>
+    </main>
 </div>
+<script src="../js/index.js"></script>
 </body>
 </html>
