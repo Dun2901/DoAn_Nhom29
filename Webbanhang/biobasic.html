@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <!--    Link icons-->
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+            integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+    />
+    <!-- Link Swiper's CSS -->
+    <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+    <!--    Link css-->
+    <link rel="stylesheet" href="css/style.css"/>
+    <title>Trang bán hóa chất thí nghiệm</title>
+</head>
+<body>
+<nav class="nav">
+    <div class="container nav_container">
+        <div class="nav_left">
+            <a href="#" class="nav_logo">CHEMICAL</a>
+            <ul class="nav_list open">
+                <li class="nav_item">
+                    <a href="index.html" class="nav_link">Trang chủ</a>
+                </li>
+                <li class="nav_item services">
+                    <a href="#" class="nav_link active">Sản phẩm
+                        <span class="material-icons dropdown-icon">
+                            <i class="fa-solid fa-sort-down"></i>
+                        </span>
+                    </a>
+                    <ul class="drop-down"  id="mobileDropdown">
+                        <li><a href="product-list.html">Xem tất cả sản phẩm</a></li>
+                        <li><a href="duchefa.html">DUCHEFA HÀ LAN</a></li>
+                        <li><a href="bosf.html">BOSF TRUNG QUỐC</a></li>
+                        <li><a href="merck.html">MERCK ĐỨC</a></li>
+                        <li><a href="wako.html">WAKO NHẬT BẢN</a></li>
+                        <li><a href="acros.html">ACROS ORGANICS</a></li>
+                        <li><a href="biobasic.html">BIOBASIC CANADA</a></li>
+                        <li><a href="himedia.html">HIMEDIA LABS</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item">
+                    <a href="contact.html" class="nav_link">Liên hệ</a>
+                </li>
+            </ul>
+        </div>
+        <div class="nav_right">
+            <a href="checkout.html"><img src="./css/images/cart.png" alt="" class="nav_icon"/></a>
+            <a href="login.html"><img src="./css/images/user.png" alt="" class="nav_icon"/></a>
+            <a href="#" id="menu_icon" class="nav_icon" onclick="toggleDropdown()"><i class="fa-solid fa-bars"></i></a>
+        </div>
+    </div>
+</nav>
+
+<section id="page_header">
+    <h2>#stayhome</h2>
+    <p>Tiết kiệm hơn với phiếu giảm giá và giảm giá lên đến 70%!</p>
+</section>
+
+<section id="product1" class="section-p1">
+    <h2>Sản phẩm nội bật</h2>
+    <p>Hãng BIOBASIC CANADA</p>
+    <div class="pro-container">
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2023/01/Indigo-Carmine-510x510.jpg " alt="img">
+            <div class="des">
+                <span>BIOBASIC CANADA</span>
+                <h5>Indigo Carmine (Dye content 80%, Cas 860-22-0)</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>1.490.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2023/01/Acridine-Orange-Hemi-Zinc-Chloride-Salt-280x280.jpg " alt="img">
+            <div class="des">
+                <span>BIOBASIC CANADA</span>
+                <h5>Acridine orange hemi</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>680.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/10/MES-monohydrate-Free-acid-Cas-145224-94-8-280x280.jpg " alt="img">
+            <div class="des">
+                <span>BIOBASIC CANADA</span>
+                <h5>MES monohydrate (Cas 145224-94-8)</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>750.000₫ – 5.400.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/07/DL-Maleic-acid-280x280.jpg " alt="img">
+            <div class="des">
+                <span>BIOBASIC CANADA</span>
+                <h5>Maleic acid >99%</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>750.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/06/Ammonium-Citrate-280x280.jpg " alt="img">
+            <div class="des">
+                <span>BIOBASIC CANADA</span>
+                <h5>Ammonium Citrate, tribasic</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>500.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/06/PVP-40-Biobasic-280x280.jpg " alt="img">
+            <div class="des">
+                <span>BIOBASIC CANADA</span>
+                <h5>Polyvinylpyrrolidone 40</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>950.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+    </div>
+</section>
+
+
+</body>
+</html>

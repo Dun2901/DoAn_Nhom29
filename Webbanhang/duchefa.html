@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <!--    Link icons-->
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+            integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+    />
+    <!-- Link Swiper's CSS -->
+    <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+    <!--    Link css-->
+    <link rel="stylesheet" href="css/style.css"/>
+    <title>Trang bán hóa chất thí nghiệm</title>
+</head>
+<body>
+<nav class="nav">
+    <div class="container nav_container">
+        <div class="nav_left">
+            <a href="#" class="nav_logo">CHEMICAL</a>
+            <ul class="nav_list open">
+                <li class="nav_item">
+                    <a href="index.html" class="nav_link">Trang chủ</a>
+                </li>
+                <li class="nav_item services">
+                    <a href="#" class="nav_link active">Sản phẩm
+                        <span class="material-icons dropdown-icon">
+                            <i class="fa-solid fa-sort-down"></i>
+                        </span>
+                    </a>
+                    <ul class="drop-down"  id="mobileDropdown">
+                        <li><a href="product-list.html">Xem tất cả sản phẩm</a></li>
+                        <li><a href="duchefa.html">DUCHEFA HÀ LAN</a></li>
+                        <li><a href="bosf.html">BOSF TRUNG QUỐC</a></li>
+                        <li><a href="merck.html">MERCK ĐỨC</a></li>
+                        <li><a href="wako.html">WAKO NHẬT BẢN</a></li>
+                        <li><a href="acros.html">ACROS ORGANICS</a></li>
+                        <li><a href="biobasic.html">BIOBASIC CANADA</a></li>
+                        <li><a href="himedia.html">HIMEDIA LABS</a></li>
+                    </ul>
+                </li>
+                <li class="nav_item">
+                    <a href="contact.html" class="nav_link">Liên hệ</a>
+                </li>
+            </ul>
+        </div>
+        <div class="nav_right">
+            <a href="checkout.html"><img src="./css/images/cart.png" alt="" class="nav_icon"/></a>
+            <a href="login.html"><img src="./css/images/user.png" alt="" class="nav_icon"/></a>
+            <a href="#" id="menu_icon" class="nav_icon" onclick="toggleDropdown()"><i class="fa-solid fa-bars"></i></a>
+        </div>
+    </div>
+</nav>
+
+<section id="page_header">
+    <h2>#stayhome</h2>
+    <p>Tiết kiệm hơn với phiếu giảm giá và giảm giá lên đến 70%!</p>
+</section>
+
+<section id="product1" class="section-p1">
+    <h2>Sản phẩm nội bật</h2>
+    <p>Hãng Duchefa</p>
+    <div class="pro-container">
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/06/Silver-nitrate-DUchefa.jpg " alt="img">
+            <div class="des">
+                <span>Duchefa Hà Lan</span>
+                <h5>Silver Nitrate 99.8% (Duchefa, Cas 7761-88-8)</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>850.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/06/Sodium-Nitrate-Duchefa.jpg " alt="img">
+            <div class="des">
+                <span>Duchefa Hà Lan</span>
+                <h5>Sodium Nitrate 99% (Duchefa, Cas 7631-99-4)</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>1.400.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/06/Calcium-Nitrate-Tetrahydrate-Duchefa-510x510.jpg " alt="img">
+            <div class="des">
+                <span>Duchefa Hà Lan</span>
+                <h5>Calcium Nitrate Tetrahydrate 98.5% (Duchefa, Cas 13477-34-4)</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>1.400.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2022/04/Moi-truong-MS-khong-vitamins-100L-510x510.jpg " alt="img">
+            <div class="des">
+                <span>Duchefa Hà Lan</span>
+                <h5>Môi trường MS Không chứa Vitamins</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>1.650.000₫ – 2.400.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg " alt="img">
+            <div class="des">
+                <span>Duchefa Hà Lan</span>
+                <h5>Westvaco WV5 medium chứa vitamins</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>1.650.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+        <div class="pro">
+            <img src="https://hoachatthinghiem.org/wp-content/uploads/2021/07/Duchefa-Biochemie.jpg" alt="img">
+            <div class="des">
+                <span>Duchefa Hà Lan</span>
+                <h5>White medium</h5>
+                <div class="star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <h4>1.650.000₫</h4>
+            </div>
+            <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>

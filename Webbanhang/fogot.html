@@ -26,10 +26,24 @@
             <a href="#" class="nav_logo">CHEMICAL</a>
             <ul class="nav_list open">
                 <li class="nav_item">
-                    <a href="index.html" class="nav_link active">Trang chủ</a>
+                    <a href="index.html" class="nav_link">Trang chủ</a>
                 </li>
-                <li class="nav_item">
-                    <a href="product-list.html" class="nav_link">Sản phẩm</a>
+                <li class="nav_item services">
+                    <a href="#" class="nav_link">Sản phẩm
+                        <span class="material-icons dropdown-icon">
+                            <i class="fa-solid fa-sort-down"></i>
+                        </span>
+                    </a>
+                    <ul class="drop-down"  id="mobileDropdown">
+                        <li><a href="product-list.html">Xem tất cả sản phẩm</a></li>
+                        <li><a href="duchefa.html">DUCHEFA HÀ LAN</a></li>
+                        <li><a href="bosf.html">BOSF TRUNG QUỐC</a></li>
+                        <li><a href="merck.html">MERCK ĐỨC</a></li>
+                        <li><a href="wako.html">WAKO NHẬT BẢN</a></li>
+                        <li><a href="acros.html">ACROS ORGANICS</a></li>
+                        <li><a href="biobasic.html">BIOBASIC CANADA</a></li>
+                        <li><a href="himedia.html">HIMEDIA LABS</a></li>
+                    </ul>
                 </li>
                 <li class="nav_item">
                     <a href="contact.html" class="nav_link">Liên hệ</a>
@@ -39,7 +53,7 @@
         <div class="nav_right">
             <a href="checkout.html"><img src="./css/images/cart.png" alt="" class="nav_icon"/></a>
             <a href="login.html"><img src="./css/images/user.png" alt="" class="nav_icon"/></a>
-            <a href="#" id="menu_icon" class="nav_icon"><i class="fa-solid fa-bars"></i></a>
+            <a href="#" id="menu_icon" class="nav_icon" onclick="toggleDropdown()"><i class="fa-solid fa-bars"></i></a>
         </div>
     </div>
 </nav>

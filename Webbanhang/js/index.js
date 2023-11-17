@@ -18,6 +18,9 @@ menuIcon.addEventListener("click", (e) => {
 });
 
 
+
+
+
 // Function to toggle the dropdown menu
 function toggleDropdown() {
     var dropdown = document.getElementById("mobileDropdown");
@@ -152,7 +155,6 @@ registerBtn.addEventListener('click', () => {
 loginBtn.addEventListener('click', () => {
     container.classList.remove("active");
 });
-
 
 
 
